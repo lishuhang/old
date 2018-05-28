@@ -61,7 +61,15 @@ img.emoji {
 <script type="text/javascript"> 
 var disqus_developer = 1; // this would set it to developer mode
 </script>
-<link rel="icon" href="/blog/wp-content/uploads/2018/05/blue-150x150.png" sizes="32x32" />
+	<style type="text/css" id="twentytwelve-header-css">
+		.site-title,
+	.site-description {
+		position: absolute;
+		clip: rect(1px 1px 1px 1px); /* IE7 */
+		clip: rect(1px, 1px, 1px, 1px);
+	}
+		</style>
+	<link rel="icon" href="/blog/wp-content/uploads/2018/05/blue-150x150.png" sizes="32x32" />
 <link rel="icon" href="/blog/wp-content/uploads/2018/05/blue-300x300.png" sizes="192x192" />
 <link rel="apple-touch-icon-precomposed" href="/blog/wp-content/uploads/2018/05/blue-300x300.png" />
 <meta name="msapplication-TileImage" content="/wp-content/uploads/2018/05/blue-300x300.png" />
@@ -83,6 +91,7 @@ var disqus_developer = 1; // this would set it to developer mode
 </ul></div>
 		</nav><!-- #site-navigation -->
 
+				<a href="/blog/"><img src="/blog/wp-content/uploads/2018/05/header-art.jpg" class="header-image" width="1000" height="240" alt="航通社" /></a>
 			</header><!-- #masthead -->
 
 	<div id="main" class="wrapper">
@@ -99,7 +108,7 @@ var disqus_developer = 1; // this would set it to developer mode
 
 						<h1 class="entry-title">谁都可以投“差评”，腾讯不可以</h1>
 										<div class="comments-link">
-					<a href="/blog/2018/05/25/shuidoukeyitouchaping/#respond"><span class="dsq-postid" data-dsqidentifier="21 /?p=21"><span class="leave-reply">发表评论</span></span></a>				</div><!-- .comments-link -->
+					<a href="/blog/2018/05/25/shuidoukeyitouchaping/#respond"><span class="leave-reply">发表评论</span></a>				</div><!-- .comments-link -->
 					</header><!-- .entry-header -->
 
 				<div class="entry-content">
@@ -191,7 +200,51 @@ var disqus_developer = 1; // this would set it to developer mode
 				</nav><!-- .nav-single -->
 
 				
-<div id="disqus_thread"></div>
+<div id="comments" class="comments-area">
+	
+		<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://lishuhang.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<script type="text/javascript">
+(function(){
+var url = "http://widget.weibo.com/distribution/comments.php?width=0&url=auto&appkey=2170523133&dpc=1";
+url = url.replace("url=auto", "url=" + encodeURIComponent(document.URL)); 
+document.write('<iframe id="WBCommentFrame" src="' + url + '" scrolling="no" frameborder="0" style="width:100%"></iframe>');
+})();
+</script>
+<script src="http://tjs.sjs.sinajs.cn/open/widget/js/widget/comment.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">
+window.WBComment.init({
+    "id": "WBCommentFrame"
+});
+</script>
+
+</div>
+	
+
+
+
+	
+	
+</div><!-- #comments .comments-area -->
 
 			
 		</div><!-- #content -->
@@ -211,18 +264,6 @@ var disqus_developer = 1; // this would set it to developer mode
 
 
 <script type='text/javascript' src='/blog/wp-content/plugins/beepress/lib/beepress-pro.js?ver=4.5.1'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var countVars = {"disqusShortname":"lishuhang"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='/blog/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.16'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.16"},"disqusIdentifier":"21 \/?p=21","disqusShortname":"lishuhang","disqusTitle":"\u8c01\u90fd\u53ef\u4ee5\u6295\u201c\u5dee\u8bc4\u201d\uff0c\u817e\u8baf\u4e0d\u53ef\u4ee5","disqusUrl":"\/2018\/05\/25\/shuidoukeyitouchaping\/","postId":"21"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='/blog/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=3.0.16'></script>
 <script type='text/javascript' src='/blog/wp-includes/js/comment-reply.min.js?ver=4.9.6'></script>
 <script type='text/javascript' src='/blog/wp-content/themes/twentytwelve/js/navigation.js?ver=20140711'></script>
 <script type='text/javascript' src='/blog/wp-includes/js/wp-embed.min.js?ver=4.9.6'></script>
