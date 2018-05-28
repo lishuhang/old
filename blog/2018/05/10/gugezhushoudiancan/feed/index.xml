@@ -6,11 +6,11 @@
 	
 	>
 <channel>
-	<title>“航通社”的评论</title>
-	<atom:link href="/blog/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/blog</link>
+	<title>《谷歌助手点餐，微软小娜下单：AI 横行的未来世界里，没有人类什么事》的评论</title>
+	<atom:link href="/blog/2018/05/10/gugezhushoudiancan/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/2018/05/10/gugezhushoudiancan/</link>
 	<description>lishuhang.me &#124; 书航 - 关注中国创业创新动态，提供科技业界独家观点</description>
-	<lastBuildDate>Mon, 28 May 2018 16:07:10 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 28 May 2018 16:07:25 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.6</generator>
