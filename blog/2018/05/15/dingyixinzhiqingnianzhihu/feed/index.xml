@@ -6,11 +6,11 @@
 	
 	>
 <channel>
-	<title>“航通社”的评论</title>
-	<atom:link href="/blog/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/blog</link>
+	<title>《定义“新知青年”，知乎校准航向》的评论</title>
+	<atom:link href="/blog/2018/05/15/dingyixinzhiqingnianzhihu/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/2018/05/15/dingyixinzhiqingnianzhihu/</link>
 	<description>lishuhang.me &#124; 书航 - 关注中国创业创新动态，提供科技业界独家观点</description>
-	<lastBuildDate>Mon, 28 May 2018 13:09:10 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 28 May 2018 13:09:20 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.6</generator>

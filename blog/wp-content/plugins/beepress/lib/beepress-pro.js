@@ -15,10 +15,7 @@
 	var skipDuplicate = 'yes';
 	var postStatus = 'publish';
 	var removeOuterlink = 'no';
-	var postTags = '';
-	var keywordsReplaceRule = '';
-	var cronPostDate = '';
-	var cronPostTime = '';
+	var postTags = [];
 	$('#bp-submit').on('click', function() {
 		count = 0;
 		amount = 0;
@@ -33,10 +30,6 @@
 		skipDuplicate = $('input[name="skip_duplicate"]:checked').val();
 		postStatus = $('input[name="post_status"]:checked').val();
 		removeOuterlink = $('input[name="remove_outerlink"]:checked').val();
-		postTags = $('input[name="post_tags"]').val();
-		keywordsReplaceRule = $('textarea[name="keywords_replace_rule"]').val();
-		cronPostDate = $('input[name="cron_post_date"]').val();
-		cronPostTime = $('input[name="cron_post_time"]').val();
 		var cates = [], removeSpecifiedImages = [] ;
 		$('input[name="post_cate[]"]:checked').each(function() {
 			cates.push($(this).val());
@@ -130,10 +123,7 @@
 				skip_duplicate: skipDuplicate,
 				post_status: postStatus,
 				remove_outerlink: removeOuterlink,
-				post_tags: postTags,
-				keywords_replace_rule: keywordsReplaceRule,
-				cron_post_date: cronPostDate,
-				cron_post_time: cronPostTime
+				post_tags: postTags
 			},
 			success: function(response) {
 				checkAuth();
@@ -208,18 +198,6 @@
 		});
 	}
 
-	if (typeof ClipboardJS !== 'undefined') {
-		var copySetting = new ClipboardJS('#copy-syncpress-setting');
-
-		copySetting.on('success', function(e) {
-			alert('配置已经复制到剪贴板，发给 Bee 吧~');
-		});
-		copySetting.on('error', function(e) {
-			console.error('Action:', e.action);
-			console.error('Trigger:', e.trigger);
-		});
-	}
-
 	var auth = $('#auth');
 	var info = $('#az-license-info');
 	checkAuth();
@@ -250,150 +228,5 @@
 	bpIframe.each(function() {
 		$(this).height($(this).width() / 1.7);
 	});
-
-	$('#add-account-setting').on('click', function () {
-		var cateStr = $('#cate-str').data('cates');
-		var settingPanel = $('#setting-panel');
-		var cateArr = cateStr.split('|');
-		var cateOptions = '';
-		cateArr.forEach(function(value) {
-			var cate = value.split(',');
-			cateOptions += '<input type="checkbox" name="cat_ids[]" value="' + cate[0] + '">' + cate[1];
-		});
-
-		var childSettingPanel = '<div class="panel panel-primary account-setting-panel">' +
-									'<div class="panel-body">' +
-										'<table class="form-table">' +
-											'<tr valign="top">' +
-												'<th scope="row">公众号名称</th>'	+
-												'<td><input value="" class="account-name" style="200px" placeholder="" type="text"></td>' +
-											'</tr>' +
-											'<tr valign="top">' +
-												'<th scope="row">公众号微信号</th>'	+
-												'<td><input class="account-id" style="200px" placeholder="" type="text"></td>' +
-											'</tr>' +
-											'<tr valign="top">' +
-												'<th scope="row">指定分类</th>'	+
-												'<td>' +
-														cateOptions +
-												'</td>' +
-											'</tr>' +
-											'<tr valign="top">' +
-												'<th scope="row">文章状态</th>' +
-												'<td>' +
-													'<input type="radio" checked class="post-status" name="post-status" value="publish"> 直接发布' +
-													'<input type="radio" class="post-status" name="post-status" value="pending"> 待审核' +
-													'<input type="radio" class="post-status" name="post-status" value="draft">  草稿' +
-												'</td>' +
-											'</tr>' +
-											'<tr valign="top">' +
-												'<th scope="row">移除文中的链接</th>' +
-												'<td>' +
-													'<input class="remove-outerlink" type="radio" name="remove_outerlink" value="no" checked> 否' +
-													'<input class="remove-outerlink" type="radio" name="remove_outerlink" value="keepcontent"> 移除链接，保留内容' +
-													'<input class="remove-outerlink" type="radio" name="remove_outerlink" value="all"> 移除链接和内容' +
-												'</td>' +
-											'</tr>' +
-											'<tr valign="top">' +
-												'<th scope="row">去除指定位置图片</th>' +
-												'<td>' +
-													'<input type="checkbox" value="1" name="remove_specified_image[]" > 第1' +
-													'<input type="checkbox" value="2" name="remove_specified_image[]" > 第2' +
-													'<input type="checkbox" value="3" name="remove_specified_image[]" > 第3' +
-													'<input type="checkbox" value="4" name="remove_specified_image[]" > 第4<br><br>' +
-													'<input type="checkbox" value="-1" name="remove_specified_image[]" > 倒数第1' +
-													'<input type="checkbox" value="-2" name="remove_specified_image[]" > 倒数第2' +
-													'<input type="checkbox" value="-3" name="remove_specified_image[]" > 倒数第3' +
-													'<input type="checkbox" value="-4" name="remove_specified_image[]" > 倒数第4<br>' +
-												'</td>' +
-											'</tr>' +
-											'<tr valign="top">' +
-												'<th scope="row">关键词替换</th>' +
-												'<td>' +
-													'<textarea name="keywords_replace_rule" cols="80" rows="8" placeholder="在此输入关键词替换规则，每行一条规则，规则格式：关键词=替换后的关键词"></textarea><br>' +
-													'如：<br>' +
-													'windows=mac<br>' +
-													'乔布斯=盖茨<br>' +
-												'</td>' +
-											'</tr>' +
-										'</table>' +
-										'<button type="button" class="delete-setting-btn btn btn-danger btn-sm">' +
-										'删除' +
-										'</button>' +
-									'</div>' +
-								'</div>';
-		settingPanel.prepend(childSettingPanel);
-	});
-
-	$('#setting-panel').delegate('.delete-setting-btn', 'click', function() {
-		$(this).parents('.account-setting-panel').remove();
-	});
-	$('#save-syncpress-setting').on('click', function() {
-		var setting = [];
-		var settingPanel = $('.account-setting-panel');
-		var token = $('#syncpress_push_token').val();
-		var syncpressPushStatus = $('input[name="syncpress_push_status"]:checked').val();
-		settingPanel.each(function(index, elem) {
-			var catIds = [];
-			var accountName = $($(elem).find('.account-name')[0]).val();
-			var accountId = $($(elem).find('.account-id')[0]).val();
-			var pushTime = $($(elem).find('.push-time')[0]).val();
-			var catIdCheckBox = $(elem).find('input[name="cat_ids[]"]:checked');
-			var postStatus = $(elem).find('input[class="post-status"]:checked').val();
-			var removeOuterlink = $(elem).find('input[class="remove-oueterlink"]:checked').val();
-			var keywordsReplaceRule = $(elem).find('textarea[name="keywords_replace_rule"]').val();
-
-			var removeSpecifiedImages = [];
-			$(elem).find('input[name="remove_specified_image[]"]:checked').each(function() {
-				removeSpecifiedImages.push($(this).val());
-			});
-			$(catIdCheckBox).each(function() {
-				catIds.push($(this).val());
-			});
-			if (accountId && accountName) {
-				setting.push({
-					'account_name': accountName,
-					'account_id': accountId,
-					'cat_ids': catIds,
-					'post_status': postStatus,
-					'push_time': pushTime,
-					'remove_images': removeSpecifiedImages,
-					'remove_outerlink': removeOuterlink,
-					'keywords_replace_rule': keywordsReplaceRule,
-				});
-			}
-		});
-		$.ajax(requestURL, {
-			method: 'POST',
-			dataType: 'json',
-			data: {
-				token: token,
-				action: 'syncpress_save_setting',
-				setting: setting,
-				syncpressPushStatus: syncpressPushStatus,
-			},
-			success: function(response) {
-				alert('保存成功');
-				location.reload();
-			}
-		});
-	});
-
-	$('input[name="urlfile"]').on('change', function () {
-		var formdata = new FormData();
-		formdata.append('urlfile', $('input[name="urlfile"]')[0].files[0]);
-		formdata.append('action', 'beepress_pro_get_file_content');
-		$.ajax(requestURL, {
-			method: 'POST',
-			dataType: 'json',
-			data: formdata,
-			processData: false,
-			contentType: false,
-			success: function(response) {
-				alert('文件上传成功');
-				var urls = response['urls'];
-				$('#post-urls').val(urls);
-			}
-		});
-	});
 })(jQuery);
+function BeePlayer(e){this.option=e}BeePlayer.prototype.init=function(){function e(e){var a=e||window.event,i=(a.clientX-t(l.bar))/s;i=i>0?i:0,i=1>i?i:1,l.updateBar.call(l,"played",i,"width"),l.element.getElementsByClassName("aplayer-ptime")[0].innerHTML=l.secondToTime(i*l.audio.duration)}function a(){document.removeEventListener("mouseup",a),document.removeEventListener("mousemove",e),l.audio.currentTime=parseFloat(l.playedBar.style.width)/100*l.audio.duration,l.playedTime=setInterval(function(){l.updateBar.call(l,"played",l.audio.currentTime/l.audio.duration,"width"),l.element.getElementsByClassName("aplayer-ptime")[0].innerHTML=l.secondToTime(l.audio.currentTime)},100)}function t(e){for(var a,t=e.offsetLeft,i=e.offsetParent;null!==i;)t+=i.offsetLeft,i=i.offsetParent;return a=document.body.scrollLeft+document.documentElement.scrollLeft,t-a}function i(e){for(var a,t=e.offsetTop,i=e.offsetParent;null!==i;)t+=i.offsetTop,i=i.offsetParent;return a=document.body.scrollTop+document.documentElement.scrollTop,t-a}this.element=this.option.element,this.music=this.option.music,this.element.innerHTML='<div class="aplayer-pic"><img src="'+this.music.pic+"\"><div class=\"aplayer-button aplayer-pause aplayer-hide\"><i class=\"demo-icon aplayer-icon-pause\"></i></div><div class=\"aplayer-button aplayer-play\"><i class=\"demo-icon aplayer-icon-play\"></i></div></div><div class=\"aplayer-info\"><div class=\"aplayer-music\"><a href=\"javascript:void((function(s,d,e,r,l,p,t,z,c){var%20f='http://v.t.sina.com.cn/share/share.php?appkey=2992571369',u=z||d.location,p=['&url=',e(u),'&title=',e(t||d.title),'&source=',e(r),'&sourceUrl=',e(l),'&content=',c||'gb2312','&pic=',e(p||'')].join('');function%20a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();})(screen,document,encodeURIComponent,'','','"+this.music.pic+"','#传送门音乐分享# "+this.music.title+" - "+this.music.author+' \',\'\',\'\'));" title="分享至微博"><i class="demo-icon aplayer-icon-weibo"></i></a><span class="aplayer-title">'+this.music.title+'</span><span class="aplayer-author">音乐资源加载中...</span></div><div class="aplayer-controller"><div class="aplayer-bar-wrap"><div class="aplayer-bar"><div class="aplayer-loaded" style="width: 0"></div><div class="aplayer-played" style="width: 0"><span class="aplayer-thumb"></span></div></div></div><span class="aplayer-time"> - <span class="aplayer-ptime">00:00</span> / <span class="aplayer-dtime">00:00</span><div class="aplayer-volume-wrap"><i class="demo-icon aplayer-icon-volume-down"></i><div class="aplayer-volume-bar-wrap"><div class="aplayer-volume-bar"><div class="aplayer-volume" style="height: 80%"></div></div></div></div></span></div></div>',this.option.narrow&&this.element.classList.add("aplayer-narrow"),this.audio=document.createElement("audio"),this.audio.src=this.music.url,this.audio.loop=!0,this.audio.preload="metadata";var l=this;this.audio.addEventListener("durationchange",function(){l.element.getElementsByClassName("aplayer-dtime")[0].innerHTML=l.secondToTime(l.audio.duration)}),this.audio.addEventListener("canplay",function(){l.element.getElementsByClassName("aplayer-author")[0].innerHTML=" - "+l.music.author,l.loadedTime=setInterval(function(){var e=l.audio.buffered.end(l.audio.buffered.length-1)/l.audio.duration;l.updateBar.call(l,"loaded",e,"width"),1===e&&clearInterval(l.loadedTime)},500)}),this.audio.addEventListener("error",function(){l.element.getElementsByClassName("aplayer-author")[0].innerHTML=" - 加载失败 ╥﹏╥"}),this.playButton=this.element.getElementsByClassName("aplayer-play")[0],this.pauseButton=this.element.getElementsByClassName("aplayer-pause")[0],this.playButton.addEventListener("click",function(){l.play.call(l)}),this.pauseButton.addEventListener("click",function(){l.pause.call(l)}),this.playedBar=this.element.getElementsByClassName("aplayer-played")[0],this.loadedBar=this.element.getElementsByClassName("aplayer-loaded")[0],this.thumb=this.element.getElementsByClassName("aplayer-thumb")[0],this.bar=this.element.getElementsByClassName("aplayer-bar")[0];var s;this.bar.addEventListener("click",function(e){var a=e||window.event;s=l.bar.clientWidth;var i=(a.clientX-t(l.bar))/s;l.updateBar.call(l,"played",i,"width"),l.element.getElementsByClassName("aplayer-ptime")[0].innerHTML=l.secondToTime(i*l.audio.duration),l.audio.currentTime=parseFloat(l.playedBar.style.width)/100*l.audio.duration}),this.thumb.addEventListener("mousedown",function(){s=l.bar.clientWidth,clearInterval(l.playedTime),document.addEventListener("mousemove",e),document.addEventListener("mouseup",a)}),this.audio.volume=.8,this.volumeBar=this.element.getElementsByClassName("aplayer-volume")[0];var n=this.element.getElementsByClassName("aplayer-volume-bar")[0],o=l.element.getElementsByClassName("aplayer-time")[0].getElementsByTagName("i")[0],r=35;this.element.getElementsByClassName("aplayer-volume-bar-wrap")[0].addEventListener("click",function(e){var a=e||window.event,t=(r-a.clientY+i(n))/r;t=t>0?t:0,t=1>t?t:1,l.updateBar.call(l,"volume",t,"height"),l.audio.volume=t,l.audio.muted&&(l.audio.muted=!1),1===t?o.className="demo-icon aplayer-icon-volume-up":o.className="demo-icon aplayer-icon-volume-down"}),o.addEventListener("click",function(){l.audio.muted?(l.audio.muted=!1,o.className=1===l.audio.volume?"demo-icon aplayer-icon-volume-up":"demo-icon aplayer-icon-volume-down",l.updateBar.call(l,"volume",l.audio.volume,"height")):(l.audio.muted=!0,o.className="demo-icon aplayer-icon-volume-off",l.updateBar.call(l,"volume",0,"height"))}),this.option.autoplay&&this.play()},BeePlayer.prototype.play=function(){this.playButton.classList.add("aplayer-hide"),this.pauseButton.classList.remove("aplayer-hide"),this.audio.play();var e=this;this.playedTime=setInterval(function(){e.updateBar.call(e,"played",e.audio.currentTime/e.audio.duration,"width"),e.element.getElementsByClassName("aplayer-ptime")[0].innerHTML=e.secondToTime(e.audio.currentTime)},100)},BeePlayer.prototype.pause=function(){this.pauseButton.classList.add("aplayer-hide"),this.playButton.classList.remove("aplayer-hide"),this.audio.pause(),clearInterval(this.playedTime)},BeePlayer.prototype.updateBar=function(e,a,t){a=a>0?a:0,a=1>a?a:1,this[e+"Bar"].style[t]=100*a+"%"},BeePlayer.prototype.secondToTime=function(e){var a=function(e){return 10>e?"0"+e:""+e},t=parseInt(e/60),i=parseInt(e-60*t);return a(t)+":"+a(i)};
