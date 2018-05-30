@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《论移动 4G 如何坑了一位刚到中国的老外》的评论</title>
+	<atom:link href="/blog/2014/09/01/30486/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/2014/09/01/30486/</link>
+	<description>lishuhang.me &#124; 书航 - 关注中国创业创新动态，提供科技业界独家观点</description>
+	<lastBuildDate>Tue, 21 Jun 2016 15:51:03 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<item>
+		<title>作者：这是小楠的微博</title>
+		<link>/blog/2014/09/01/30486/#comment-416</link>
+		<dc:creator><![CDATA[这是小楠的微博]]></dc:creator>
+		<pubDate>Wed, 03 Sep 2014 06:39:19 +0000</pubDate>
+		<guid isPermaLink="false">http://cn.technode.com/?p=30486#comment-416</guid>
+		<description><![CDATA[晕死，要用H+网络要用联通卡啊，怎么买移动的，LZ也不教教]]></description>
+		<content:encoded><![CDATA[<p>晕死，要用H+网络要用联通卡啊，怎么买移动的，LZ也不教教</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：douyou</title>
+		<link>/blog/2014/09/01/30486/#comment-415</link>
+		<dc:creator><![CDATA[douyou]]></dc:creator>
+		<pubDate>Tue, 02 Sep 2014 07:13:51 +0000</pubDate>
+		<guid isPermaLink="false">http://cn.technode.com/?p=30486#comment-415</guid>
+		<description><![CDATA[本人就用的移动4G，感觉很不错，你不能因为IPAD不支持TDD就说移动不好，移动难道不想弄全球流行的FDD。PS：目前中国4G网络覆盖最广的就是移动，联通和电信还在做基建喃]]></description>
+		<content:encoded><![CDATA[<p>本人就用的移动4G，感觉很不错，你不能因为IPAD不支持TDD就说移动不好，移动难道不想弄全球流行的FDD。PS：目前中国4G网络覆盖最广的就是移动，联通和电信还在做基建喃</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《有关QQ……阅读》的评论</title>
+	<atom:link href="/blog/2010/11/06/1696/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/2010/11/06/1696/</link>
+	<description>lishuhang.me &#124; 书航 - 关注中国创业创新动态，提供科技业界独家观点</description>
+	<lastBuildDate>Tue, 21 Jun 2016 15:51:03 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<item>
+		<title>作者：lishuhang</title>
+		<link>/blog/2010/11/06/1696/#comment-16</link>
+		<dc:creator><![CDATA[lishuhang]]></dc:creator>
+		<pubDate>Sun, 07 Nov 2010 15:07:33 +0000</pubDate>
+		<guid isPermaLink="false">http://lishuhang.com/blog/?p=1696#comment-16</guid>
+		<description><![CDATA[我不知道啊，不过intensedebate这个插件非常棒，即使你的blog重新搭的话评论也不会丢失。 ]]></description>
+		<content:encoded><![CDATA[<p>我不知道啊，不过intensedebate这个插件非常棒，即使你的blog重新搭的话评论也不会丢失。 </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：lilydjwg</title>
+		<link>/blog/2010/11/06/1696/#comment-15</link>
+		<dc:creator><![CDATA[lilydjwg]]></dc:creator>
+		<pubDate>Sun, 07 Nov 2010 14:39:37 +0000</pubDate>
+		<guid isPermaLink="false">http://lishuhang.com/blog/?p=1696#comment-15</guid>
+		<description><![CDATA[网站方不给力，还是用GreaseMonkey自行解决吧。
+BTW: 评论不能用中文名字？ ]]></description>
+		<content:encoded><![CDATA[<p>网站方不给力，还是用GreaseMonkey自行解决吧。<br />
+BTW: 评论不能用中文名字？ </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：DaZuoo</title>
+		<link>/blog/2010/11/06/1696/#comment-14</link>
+		<dc:creator><![CDATA[DaZuoo]]></dc:creator>
+		<pubDate>Sat, 06 Nov 2010 13:08:17 +0000</pubDate>
+		<guid isPermaLink="false">http://lishuhang.com/blog/?p=1696#comment-14</guid>
+		<description><![CDATA[只能说界面看着很吸引，但反而一些朴实的东西到变得不好用了 ]]></description>
+		<content:encoded><![CDATA[<p>只能说界面看着很吸引，但反而一些朴实的东西到变得不好用了 </p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

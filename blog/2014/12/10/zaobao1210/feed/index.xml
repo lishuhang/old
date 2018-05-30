@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《三个发布会》的评论</title>
+	<atom:link href="/blog/2014/12/10/zaobao1210/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/2014/12/10/zaobao1210/</link>
+	<description>lishuhang.me &#124; 书航 - 关注中国创业创新动态，提供科技业界独家观点</description>
+	<lastBuildDate>Tue, 21 Jun 2016 15:51:03 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<item>
+		<title>作者：麻双</title>
+		<link>/blog/2014/12/10/zaobao1210/#comment-471</link>
+		<dc:creator><![CDATA[麻双]]></dc:creator>
+		<pubDate>Thu, 11 Dec 2014 06:45:07 +0000</pubDate>
+		<guid isPermaLink="false">http://cn.technode.com/?p=34485#comment-471</guid>
+		<description><![CDATA[最后一个发布会是来自友盟。友盟长期为手机应用和游戏做各种分析和推广辅助，以及社交网络的接入插件。他们遇到的问题和开发者所遇到的问题是一样的——现在他们只掌握设备的信息，而不掌握设备背后的人。如果说是解决设备背后的人的问题的话，那么，只有拥有完整的用户账户的阿里和腾讯才做得到。三巨头当中，百度也面临着这样的困惑。掌握data 才真的是硬气的～]]></description>
+		<content:encoded><![CDATA[<p>最后一个发布会是来自友盟。友盟长期为手机应用和游戏做各种分析和推广辅助，以及社交网络的接入插件。他们遇到的问题和开发者所遇到的问题是一样的——现在他们只掌握设备的信息，而不掌握设备背后的人。如果说是解决设备背后的人的问题的话，那么，只有拥有完整的用户账户的阿里和腾讯才做得到。三巨头当中，百度也面临着这样的困惑。掌握data 才真的是硬气的～</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

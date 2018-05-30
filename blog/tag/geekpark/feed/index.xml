@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>geekpark &#8211; 航通社</title>
+	<atom:link href="/blog/tag/geekpark/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>lishuhang.me &#124; 书航 - 关注中国创业创新动态，提供科技业界独家观点</description>
+	<lastBuildDate>Fri, 25 May 2018 12:28:58 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<item>
+		<title>Those QR codes posted outdoor suck</title>
+		<link>/blog/2013/01/27/636994/</link>
+		<comments>/blog/2013/01/27/636994/#respond</comments>
+		<pubDate>Sun, 27 Jan 2013 08:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[新闻]]></category>
+		<category><![CDATA[geekpark]]></category>
+
+		<guid isPermaLink="false">http://lishuhang.me/?p=12</guid>
+		<description><![CDATA[那些年，我们一起扫不出来的二维码 微信会员卡火爆，带动了二维码遍地开花。户外广告和网络结合时都希望让用户参与成 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>那些年，我们一起扫不出来的二维码</strong></p>
+<p>微信会员卡火爆，带动了二维码遍地开花。户外广告和网络结合时都希望让用户参与成本最低，而扫码比起输入关键字看起来要方便得多。<strong>但不知道这些广告的设计者，有多少在自己的广告出街以后，亲自试过用手机扫一扫上面的二维码。</strong></p>
+<p class="f_center"><img height="245" src="http://img.cnbeta.com/newsimg/130129/11231901815894850.png" width="397" /></p>
+<p>这是上海地铁的一则QQ广告，扫描二维码将会进入手机QQ下载页面。但它投放的位置在地铁隧道后面的墙壁上，灯箱亮度很高，后面则是漆黑的背景。人眼观看毫无压力，但如果拿手机扫描，再大的码都会杯具。</p>
+<p class="f_center"><img height="483" src="http://img.cnbeta.com/newsimg/130129/11232012064101405.png" width="361" /></p>
+<p>接下来是兰蔻的一则广告。这则广告有印在地铁灯箱上的，问题和上一则一样，而且二维码尺寸从乘客站立位置看过去，还不如指甲盖大。</p>
+<p class="f_center"><img height="395" src="http://img.cnbeta.com/newsimg/130129/1123202321049641.png" width="502" /></p>
+<p>高亮的地方在这个提示：如果没有安装二维码扫描软件，你需要去a.rosebeauty.com.cn下载，但你颤颤微微打开浏览器键入网址，下载了扫描一下，你会发现二维码带你去的网址是rosebeauty.com.cn。那我为什么不直接输入这个网址？还可以少打两个字。</p>
+<p>更加奇葩的是印在列车车门上的这则新奇士果汁广告：</p>
+<p class="f_center"><img height="438" src="http://img.cnbeta.com/newsimg/130129/1123203748943720.png" width="413" /></p>
+<p>这样的图案，我想它唯一存在的意义就是告诉大家“这是一个二维码”，此外毫无意义。</p>
+<p>还有其他例子。比如有一个上海欢乐谷的广告，在最底下想要给出官方微博和官方微信，却忘记了把微博和微信的ID放上去，只是放了微博和微信的logo。另外，有些贴在列车内部的广告也印有二维码，但在列车运行的过程中，如果还要对准了图案扫描，很容易站立不稳跌倒，造成安全隐患。有趣的是这些广告还会友情提示：“请在不影响乘客安全通过的前提下拍摄。”</p>
+<p>上面的例子表明，二维码尽管避免了文字输入，却带来了更多意想不到的麻烦，并不值得商家不分场合跟风应用。比较适合的位置是墙角、桌边这样的，人们可以站稳或坐好之后再掏出手机的场合。</p>
+<p>对于公交设施这样的媒体，以及户外电子屏幕，人们走动或晃动，不方便打字或拍照的时候，宁可选择让人们记住ID、网址或关键字，下车后再输入查找。可以考虑抢注简单易记的网址、微博ID或搜索引擎关键字，并且集中宣传其中之一，而不是分散火力。这样，偶尔路过的人们才有可能记住不断重复的某个字眼，并影响他们今后的消费。</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/2013/01/27/636994/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

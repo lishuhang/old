@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tech2ipo &#8211; 航通社</title>
+	<atom:link href="/blog/tag/tech2ipo/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>lishuhang.me &#124; 书航 - 关注中国创业创新动态，提供科技业界独家观点</description>
+	<lastBuildDate>Fri, 25 May 2018 12:28:58 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<item>
+		<title>Firefox OS is nothing exciting</title>
+		<link>/blog/2013/02/24/15/</link>
+		<comments>/blog/2013/02/24/15/#respond</comments>
+		<pubDate>Sun, 24 Feb 2013 08:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[新闻]]></category>
+		<category><![CDATA[tech2ipo]]></category>
+
+		<guid isPermaLink="false">http://lishuhang.me/?p=15</guid>
+		<description><![CDATA[Firefox OS来了，但它没什么好说的 巴展第一天，同诺基亚新机等一同占据头条位置的就是Firefox O [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>Firefox OS来了，但它没什么好说的</strong></p>
+<p class="f_center"><img alt="image" src="http://img0.tech2ipo.com/upload/img/article/2013/02/1361785694084.jpg" title="TM截图20130225174746.jpg" /></p>
+<p>巴展第一天，同诺基亚新机等一同占据头条位置的就是Firefox OS的发布，但我真心觉得这不是什么重大新闻。</p>
+<p>和半年前在上海向开发者展出时没有什么区别，Firefox OS的界面、基础功能和首发的应用都还是之前已经曝光过的那样。媒体总结，新系统最大的卖点是向网页应用开放更多的系统接口。而在它自己的<a href="http://www.mozilla.org/en-US/firefox/partners/#" target="_blank">官方网站</a>，它总结的卖点居然还有这么一条：我们是有着15年开发历史的老牌浏览器厂商。</p>
+<p>好吧，既然有15年开发历史，我们不妨花点篇幅，回头看看当年Firefox是如何成长的。</p>
+<p>从2.0版开始Firefox逐渐被更多人接受，但仅凭一些网络广告条，是没法让它成为主流的。真正让Firefox火起来的，是它缤纷多彩的<strong>插件和皮肤</strong>。很多年来ADBlock、Flashgot、Greasemonkey等神插件都是Firefox平台独有，而Chrome那时还没有出生。</p>
+<p>如果你要找一个帮你屏蔽广告，兼容多款主流下载工具，又不会被安装上网助手什么的浏览器，当时人们的选择很有限。国内还可以用傲游、腾讯TT，国外基本都选择了Firefox。而Firefox那段时间在国内的份额增长也很明显。</p>
+<p>Chrome从问世到流行也用了一段时间，而真正引发其爆发的，也是插件。尽管Firefox跟Chrome相比已经沉重，界面又陈旧，但很多人当时仍不愿放弃Firefox独有的插件，但这些插件开发出Chrome版本时，他们就没什么心理包袱了。</p>
+<p>在现在Chrome应用商店，你会发现插件和皮肤的活跃度仍然大幅超越所谓Web App，而那些Web App有些仍然只是到网站的快捷方式而已，就算真是App也可以提取出网址到任意一个浏览器上访问。可以说，正是浏览器各做各的插件，才让我们形成了属于自己的使用习惯；而在浏览器一个个都是壳的年代，插件是<strong>别的壳搬不走的，这才是它们的核心价值</strong>。</p>
+<p>我觉得，也许有人会因为锁屏长按Home键打开手电筒而选择MIUI，有人会因为拉开锁屏一角直接把短信设为已读而选择Flyme，有人会因为自己讨厌的东西没被装上去而选择锤子ROM，有人会因为向右一划锁屏就可以拍照而选择升级到Android 4.2。但是<strong>绝不会有人因为Firefox做了15年浏览器，而选用他家的系统。</strong></p>
+<p>“别人搬不走的”东西，才是手机系统的核心价值。我相信系统接口方面，Ubuntu赶得上，Tizen也赶得上，甚至UC海豚之流都可以给你弄出权限来。Firefox OS正式上市的时候，如果不能在功能上有所突破，恐怕只能硬着头皮和三星黑莓拼渠道了。而即便如此，我也只会把装载Firefox OS的手机，看作一台支持HTML5的功能机，而非一台智能手机。</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/2013/02/24/15/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>What&#8217;s behind opera&#8217;s kernel transformation</title>
+		<link>/blog/2013/02/15/14/</link>
+		<comments>/blog/2013/02/15/14/#respond</comments>
+		<pubDate>Fri, 15 Feb 2013 08:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[新闻]]></category>
+		<category><![CDATA[tech2ipo]]></category>
+
+		<guid isPermaLink="false">http://lishuhang.me/?p=14</guid>
+		<description><![CDATA[Opera放弃自家内核转投WebKit的背后 Opera在2月13日宣布用户突破3亿，并且带着这3亿用户投入W [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>Opera放弃自家内核转投WebKit的背后</strong></p>
+<p>Opera在2月13日宣布用户突破3亿，<a href="http://www.cnbeta.com/articles/226065.htm" target="_blank">并且带着这3亿用户投入WebKit阵营，自家的Presto内核将会走入历史</a>。Opera为什么选择在现在这个时间点放弃自有内核？之前Opera的坚持自主研发一直被看作是企业的一个亮点，转变成一个壳方案公司对Opera意味着什么呢？</p>
+<p class="f_center"><img border="0" src="http://img.cnbeta.com/newsimg/130216/1404230459766482.jpg" title="TM截图20130216135834.jpg" /></p>
+<p><strong>甩掉历史包袱，时机已经成熟</strong></p>
+<p>Presto长期在各种浏览器引擎评比中参数占优，被公认为一款轻量级，优化充分，速度快效率高的好内核。不过Presto是商业引擎，与开源的WebKit和经过谷歌加持的Chromium系列相比毫无推广上的优势。</p>
+<p>近年来使用Presto的除Opera自己以外，只剩下任天堂NDS、Wii以及诺基亚770的内置网络浏览器。</p>
+<p>任天堂已经<a href="http://nds.duowan.com/1106/171022234667.html" target="_blank">在3DS中放弃了Opera浏览器合作</a>，选用了日本本土企业开发的NetFront内核，它同时也是PSP的网络浏览器内核。至于诺基亚，早在S60开始普及时就没有Opera什么事了。所以Presto商业授权的历史包袱，现在已经被逐渐甩掉。</p>
+<p>去年以来Opera已经在逐步削减自有内核OEM授权在营收中所占比重，<a href="http://media.opera.com/media/finance/2012/4Q12_presentation.pdf" target="_blank">2012Q4财报</a>显示，移动OEM营收同比下降了89%，在总营收占比已经接近0%。</p>
+<p class="f_center"><img border="0" height="433" src="http://img.cnbeta.com/newsimg/130216/1404231912150936.jpg" title="TM截图20130216120821.jpg" width="580" /></p>
+<p>目前Opera将智能电视机顶盒的浏览器内置作为OEM的下一个大方向，尽管设备OEM总营收同比下降2%，不过授权收入同比增长了75%。</p>
+<p class="f_center"><img border="0" height="433" src="http://img.cnbeta.com/newsimg/130216/1404232540789926.jpg" title="TM截图20130216120859.jpg" width="580" /></p>
+<p><strong>换内核不会导致用户流失</strong></p>
+<p>按照最新统计，Opera总用户突破3亿，从财报我们可以看出Opera现有产品线的用户分布，其中针对内核而言最重要的一个数字就是<strong>手机用户突破2.3亿，其中功能手机用户1.5亿</strong>。</p>
+<p class="f_center"><img border="0" height="436" src="http://img.cnbeta.com/newsimg/130216/140423399714564.jpg" title="TM截图20130216131257.jpg" width="580" /></p>
+<p>Android和iOS平台的浏览器可以非常轻易地转换内核，倒不如说采用WebKit以后更新比现在要更加方便。而功能手机主要安装的Opera Mini本来就不支持现代网页标准，也无法获得升级，放任其停留在现有版本即可，这也就意味着<strong>一半的Opera用户根本不会受到换内核的影响，只是停止了对他们的技术支持</strong>。</p>
+<p>对于另外一半用户，主动或被动更新可以让用户无缝升级到新版本，嵌入式设备的浏览器也可以通过升级固件的方式获得更新。</p>
+<p>各种用户群中相对受影响最大的是桌面用户，但影响也很轻微。一部分无法自动升级的用户，随着开发者放弃对Presto内核的适配，未来用旧版访问这些网站也许会有错位。但Presto至今对HTML5和CSS3支持都很完整，因此这个错位只是存在理论上的可能性。</p>
+<p>按照这样的估计，除了一些Web开发者会因为不必安装Opera测试而卸掉以外，换内核不太可能导致用户流失。</p>
+<p>新内核对最终用户必将是利大于弊的，尤其是在<a href="http://www.cnbeta.com/articles/226235.htm" target="_blank">移动端收购SkyFire</a>以后，可以期待iOS版Opera的表现将更占优势。不要忘记SkyFire最早上市的时候，是首款让iOS支持Flash浏览的浏览器，现在在国际市场也是独苗（国内可以用UC看Flash）。</p>
+<p><strong>壳公司Opera向黑客精神告别</strong></p>
+<p>现在Opera功能手机用户就是1.5亿，但2011年底<a href="http://www.cnbeta.com/articles/167303.htm" target="_blank">Opera Mini月活跃用户就已经是1.4亿的水平</a>。这显示出Opera现代浏览器的市场扩张遇到了瓶颈。</p>
+<p>Opera的很多工程师原是黑客出身。鼠标手势、页面缩放、快速拨号、多标签浏览等功能不断被其他浏览器借用，但作为一家有着黑客精神的小公司，Opera没有为这些革新申请过专利。没有专利门槛的保护，Opera只有保持自身不断地创新，才能获得持续的增长。</p>
+<p>Opera无条件放弃Presto，并没有要求WebKit的更新采纳自己的贡献，融合一部分自己的内核，其实意味着之前的这些创新都化作了沉没成本。</p>
+<p>16年多以来，Opera一直作为一家独立的浏览器技术提供商顽强的生存下来，并在大公司加入竞争的前提下一直保持着自有内核的更新，为此投入了大量的人力物力。而自有内核授权收入减少到只是象征性的水平，其存在意义也遭到内外不断的质疑。</p>
+<p>Opera并不臃肿，百多人的工程师就足以决定全球3亿人用的浏览器长什么样，是一家完美的小公司。现在的财报其实已经足够养活所有员工前途无忧。但这次决定砍掉工程师们的长期心血，说明公司的天平已经从“改变世界”向“赚更多钱”倾斜。</p>
+<p><a href="http://www.zhihu.com/question/20776481" target="_blank">Opera内部也期待</a>通过本次内核切换，将解放出来的程序员们安排到改善浏览器用户体验的岗位上，“比如把老旧的书签和历史管理器装点一下，或者设计下一代的启动页面。”</p>
+<p>也许Opera在中国的本地化运作会为如何做好一个“壳”公司提供有效的借鉴。中国的手机浏览器市场呈现过饱和竞争，比的更多是营销而不是技术。我之前也提到过，UC海豚QQ等竞争者已经<a href="http://tech.163.com/special/rw20/" target="_blank">把内核改良玩成了噱头</a>，继续强调内核自主不说令人反感吧，起码也没有什么效果；而一款浏览器的最终表现不仅受到自身因素的影响，还受到机能和网络的制约，用户界面和体验的更新才是更加直观和见效快的选择。</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/2013/02/15/14/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Why Google agreed BB10 to run android apps, but banned Aliyun OS</title>
+		<link>/blog/2013/02/05/637358/</link>
+		<comments>/blog/2013/02/05/637358/#respond</comments>
+		<pubDate>Tue, 05 Feb 2013 08:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[新闻]]></category>
+		<category><![CDATA[tech2ipo]]></category>
+
+		<guid isPermaLink="false">http://lishuhang.me/?p=13</guid>
+		<description><![CDATA[为什么黑莓可以跑Android应用，而阿里云就不行？ 黑莓10内已经开始兼容Android 4.1系统的应用。 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>为什么黑莓可以跑Android应用，而阿里云就不行？</strong></p>
+<p>黑莓10内已经开始兼容<a href="http://crackberry.com/blackberry-android-runtime-be-upgraded-android-41-jelly-bean" target="_blank">Android 4.1系统</a>的应用。而有消息爆出，现在黑莓应用商店近10万个程序中，<a href="http://www.intomobile.com/2013/02/03/40-blackberry-10-apps-repackaged-android-apks/" target="_blank">40%都来自Android应用的“一键移植”</a>。这种取巧的办法不禁让人想起阿里云OS，它官方宣布兼容Android应用后没多久就接到谷歌最后通牒，又被拎出来到国际舞台上数落一番。</p>
+<p class="f_center"><img border="0" src="http://img.cnbeta.com/newsimg/130206/0859110786131310.jpg" title="blackberry-android.jpg" /></p>
+<p>我查阅了双方一些技术文档后总结了黑莓和阿里云在兼容Android应用方面的几点区别，这可能是谷歌放过黑莓却对阿里云无法容忍的原因所在：</p>
+<p><strong>1、在开发者一端，黑莓对Android应用的支持是通过重新打包实现的。</strong></p>
+<p>黑莓向开发者提供Android Runtime，APK包要重新编译成BAR文件，并提交到App World，这个过程要开发者本人完成，他也拥有手中的源代码的版权，因此对自己开发的东西移植并不犯法。黑莓只多做了两件事——一是<a href="http://www.cctime.com/html/2013-1-30/20131301525187790.htm" target="_blank">一键移植，前所未有的简单</a>；二是前段时间只要<a href="http://articles.csdn.net/shangwuzhuanqu/heimeizhuanqu/Java_Android_Rumtime/2012/1213/2812827.html" target="_blank">上传一个审核通过就给你100美元</a>。</p>
+<p><strong>2、在用户一端，黑莓对Android应用的支持是通过虚拟机实现的。</strong></p>
+<p>Android早期版本也包含一个Java模拟器，并且在屏幕下方留下了虚拟方向键。现在连菜单、Home等实体按键都去掉的黑莓机器，使用虚拟机类的Android Player运行APK包，不仅无可非议而且也是比较好的解决方案。当然，这么做必然意味着牺牲性能。如果在黑莓平台上还依赖Android应用，为什么不直接买一部Android手机呢？</p>
+<p><strong>3、黑莓有自己的原生应用格式。</strong></p>
+<p>黑莓10的应用后缀名是BAR，这个文件格式的开发和内部结构都和Android有明显区别，它们可以支持的功能也不一样。Android应用被转制成黑莓应用后<a href="http://subject.csdn.net/rim0113/" target="_blank">会丢失大部分硬件功能</a>，比如蓝牙，麦克风，摄像头，NFC，VoIP，电话，光感器。当然不排除黑莓以后改进技术将上述接口映射到自己设备的可能，但这个过程将很艰难。就算它多年修炼做到了完美兼容，这个举动也不一定有意义。</p>
+<p>阿里云自身的“应用”只是换了个方式的手机版网站书签，<a href="http://apps.aliyun.com/index.htm" target="_blank">“应用商店”里面全是Webapp</a>，给开发者的所谓SDK也是怎样部署移动版网站到阿里云服务器上，<a href="http://bbs.aliyun.com/simple/?t747.html" target="_blank">没有原生应用的开发指南</a>。这种情况下，还对APK完美兼容，就算整个事件硬被搞成一个罗生门，还是平息不了人们心中的疑问。</p>
+<p>如果还有后来者想“借用”Android应用商店的东西，应该也要遵循和上述举措类似的规则。这些规则导致的结果就是安卓生态圈外的系统兼容性必然赶不上圈内的系统，也验证了“天下没有免费的午餐”这句话。</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/2013/02/05/637358/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

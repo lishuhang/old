@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《42区问答：关于工作》的评论</title>
+	<atom:link href="/blog/2011/04/05/636254/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/2011/04/05/636254/</link>
+	<description>lishuhang.me &#124; 书航 - 关注中国创业创新动态，提供科技业界独家观点</description>
+	<lastBuildDate>Tue, 21 Jun 2016 15:51:03 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<item>
+		<title>作者：LJ</title>
+		<link>/blog/2011/04/05/636254/#comment-22</link>
+		<dc:creator><![CDATA[LJ]]></dc:creator>
+		<pubDate>Fri, 27 May 2011 10:26:15 +0000</pubDate>
+		<guid isPermaLink="false">http://lishuhang.com/blog/?p=636254#comment-22</guid>
+		<description><![CDATA[其实就是挑了一个好模板而已。。有问题随时问我吧。]]></description>
+		<content:encoded><![CDATA[<p>其实就是挑了一个好模板而已。。有问题随时问我吧。</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：子洋Charles</title>
+		<link>/blog/2011/04/05/636254/#comment-23</link>
+		<dc:creator><![CDATA[子洋Charles]]></dc:creator>
+		<pubDate>Fri, 27 May 2011 04:09:00 +0000</pubDate>
+		<guid isPermaLink="false">http://lishuhang.com/blog/?p=636254#comment-23</guid>
+		<description><![CDATA[这个Wordpress站点是我目前为止见过的做的最好的了。无论是设计还是速度。
+
+当然似乎很多东西需要加载，让我的Tunnelier十分纠结(配合FF使用时,加载项太多有时会让FF短暂失去响应)……有时间简单教教我设计什么的啊~我的站点：http://readinglife.net......./
+
+]]></description>
+		<content:encoded><![CDATA[<p>这个Wordpress站点是我目前为止见过的做的最好的了。无论是设计还是速度。</p>
+<p>当然似乎很多东西需要加载，让我的Tunnelier十分纠结(配合FF使用时,加载项太多有时会让FF短暂失去响应)……有时间简单教教我设计什么的啊~我的站点：http://readinglife.net&/#8230;&#8230;.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
