@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TechCrunch北京 &#8211; 航通社</title>
+	<atom:link href="/blog/tag/techcrunch%E5%8C%97%E4%BA%AC/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>lishuhang.me &#124; 书航 - 关注中国创业创新动态，提供科技业界独家观点</description>
+	<lastBuildDate>Fri, 25 May 2018 12:28:58 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<item>
+		<title>TC北京：张一鸣介绍今日头条的原创保护制度以及O2O规划</title>
+		<link>/blog/2014/08/18/29603/</link>
+		<comments>/blog/2014/08/18/29603/#respond</comments>
+		<pubDate>Mon, 18 Aug 2014 04:00:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[新闻]]></category>
+		<category><![CDATA[TechCrunch北京]]></category>
+
+		<guid isPermaLink="false">http://cn.technode.com/?p=29603</guid>
+		<description><![CDATA[今日头条是一家吸引大量关注的公司，其创始人张一鸣一直对媒体保持低调和谨慎，他对于自己的话语字斟句酌，就像是上市 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://cn.technode.com/files/2014/08/Toutiao.jpg"><img class="alignnone size-large wp-image-29605" src="http://cn.technode.com/files/2014/08/Toutiao-1024x682.jpg" alt="Toutiao" width="700" height="466" /></a></p>
+<p>今日头条是一家吸引大量关注的公司，其创始人张一鸣一直对媒体保持低调和谨慎，他对于自己的话语字斟句酌，就像是上市之前处于缄默期的公司一样。就是在这样的环境之下，在峰会第二天下午，他接受了我们的采访。在台下的观众当中，还有来自多个传统媒体的记者——比如中央电视台英语新闻频道。</p>
+<p>在不到两年的时间里，张一鸣的今日头条拥有了1.2亿注册用户，成为中国最流行的新闻阅读器之一，并且获得了令人大跌眼镜的一亿美元C轮融资，公司的估值达到五亿美元。今日头条受到来自传统媒体，门户网站，甚至某些个人的联合讨伐，他们的批判主要是针对今日头条的版权保护不力的现象。在广州日报率先发难又与其握手言和之后，搜狐针对其发起的诉讼到现在还没有平息，他们在追讨巨额的赔款。</p>
+<p>今日头条通过抓取内容并且重新编排格式，放入其自身的应用当中。但是在新一轮融资的众声喧哗之后，他们被迫宣布链接到来源网页，而不会显示自己抓取的内容。因为门户网站早就已经习惯了抓取，并且也和传统媒体相处得很好，所以这种差别对待似乎对今日头条不甚公平。但是，既然传统媒体需要流量，那么头条就会给他们打过去——张一鸣的态度正是如此。</p>
+<p>但是传统媒体所需要的，果真是流量计数器上不断跳动的数字，和他们在Alexa的排名吗？流量背后，媒体的需求到底是怎样的呢？张一鸣说，对于流量背后那些媒体的诉求，大概包含三个方面：首先是推动他们自身品牌的建设和认知程度，其次是获得本网站的排名靠前，以支持在自己的网站内部投放广告，第三就是希望能够获得一次性或者分成的版权收入。</p>
+<p>今日头条目前对于版权方采取三种方式同时进行的做法。对于希望展示品牌的服务商，他们会提供类似微信公众号一样的入口，同时也会在比较醒目的位置去展示这个公司的标记，并且对于所有的链接都会打到来源页面，方便他们展示自己的品牌形象。对于想要获得分成的媒体，他们也会提供广告收入分成，或者是按照有些媒体的要求，也可以提供一次性的授权费用。</p>
+<p>在版权声明方面，某些情况让今日头条很难判断。他们所引用的文章地址是否是文章最原始的来源，会导致非常明显的问题，因为这涉及到广告收入的分配。为了解决这个问题，今日头条正在引入一个名叫“原创保护”的计划，让一些人工验证的主流媒体和自媒体，能够申领自己的版权。这样，在其他媒体转载的文章，即使今日头条链入页面并非来源网站，它所生成的广告收入也会归属于原作者，而不是那个转载的媒体。</p>
+<p>目前对于这种原创保护制度的申领要求比较严格，其内容创作者必须采用全原创的文章。但是，如果有媒体没有获得某些国外网站编译资格，只是做了“原创翻译”这一点，张一鸣依然没有给出一个切实的解决办法。</p>
+<p>今日头条看到了其他新闻客户端准备进入线下领域，并且针对消费者收费的想法，但是他重申公司所有的收入，基本上都是通过对企业收费，而对消费者保持永远的免费。某些消费者希望他们的广告能够点击，并且与本地生活相结合，而网易新闻客户端4.0引入的本地生活服务，更是接入了大众点评等一系列O2O商家。张一鸣认为他们也会在近期考虑开通类似的线上线下联动的广告业务，但是并没有一个具体的时间表。</p>
+<p>最后，张一鸣认为，虽然他们强调能够生成个性化的新闻，是与其他新闻阅读器之间差异化的要点，但是个性化并不是一个阅读器最大的追求。根据我个人的理解，这意味着阅读器应该带给人们他们“应该知道”的新闻，而不是他们“想知道”的。</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/2014/08/18/29603/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>HAXLR8R 合伙人 Benjamin Joffe ：听好了，我们不接受这几个“ware”</title>
+		<link>/blog/2014/08/17/29595/</link>
+		<comments>/blog/2014/08/17/29595/#respond</comments>
+		<pubDate>Sun, 17 Aug 2014 02:25:54 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[新闻]]></category>
+		<category><![CDATA[TechCrunch北京]]></category>
+
+		<guid isPermaLink="false">http://cn.technode.com/?p=29595</guid>
+		<description><![CDATA[2014年TechCrunch国际创新峰会·北京站活动8月11-12日在北京朝阳规划艺术馆举行。动点科技和Te [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://cn.technode.com/files/2014/08/QQ20140815-1.png"><img class="alignnone size-large wp-image-29596" src="http://cn.technode.com/files/2014/08/QQ20140815-1-1024x706.png" alt="QQ20140815-1" width="700" height="482" /></a></p>
+<p>2014年TechCrunch国际创新峰会·北京站活动8月11-12日在北京朝阳规划艺术馆举行。动点科技和TechCrunch中国作为大会主办方，对本次活动进行全程报道。</p>
+<p><span style="color: rgba(0, 0, 0, 0.8);">Benjamin Joffe 是在硬件加速器<span style="color: #4b4b4b;"> </span><a style="color: #ff6600;" href="http://www.haxlr8r.com/about">HAXLR8R</a> 的合伙人，他登台表示，他们不接受某几个分类的硬件产品项目。</span></p>
+<p><span style="color: rgba(0, 0, 0, 0.8);"><a title="硬件的未来在于软硬结合：拜访Haxlr8r创始人西里尔·艾博斯韦勒" href="http://cn.technode.com/post/2013-09-26/haxlr8r-cyril/">总部设在中国深圳的硬件加速器 HAXLR8R</a>，专门针对硬件设备制造商提供种子轮的融资，办公空间和导师。2012年他们有首批企业进驻，自那以来整个项目当中有五十个项目毕业，其中有大约三十个来自美国，十个来自欧洲，另外十个来自亚洲，其中八个是在中国本土。</span></p>
+<p><span style="color: rgba(0, 0, 0, 0.8);">深圳是中国长期以来的制造业中心，该加速器在深圳和旧金山都设有办公室。团队包括大概五十名专家和导师，以及另外十个人的营销团队。专家和导师可能会帮助这些入驻的创业公司，改进自身产品。</span></p>
+<p><span style="color: rgba(0, 0, 0, 0.8);">现在深圳对于硬件创业者已经成为一个必须要去的地方，因为那里有大量低成本的电子元器件，加工场和有经验的专家，可以检验你的硬件创意是否切合实际，然而加速器最早发布的地方是在旧金山，这是为了吸引西方媒体和观众的注意。</span></p>
+<p><span style="color: rgba(0, 0, 0, 0.8);">就像大多数硬件创业公司一样，在这个加速器当中孵化的产品，都是跑到众筹平台 Kickstarter 上去做早期融资并且吸引早期用户的。</span></p>
+<p><span style="color: rgba(0, 0, 0, 0.8);">根据 Joffe 的说法，在他们加速器当中并不接受的项目包括：</span></p>
+<ul>
+<li>EASYware：太简单的产品，要制作或者抄袭都非常简单。比如，在智能按键 Pressy 推出自己产品之后，在中国闪电般的出现十几个同类产品。</li>
+<li>SAMEware：同质化的产品，它的差异化并不足够。比如说智能手表或者是运动侦测设备。</li>
+<li>FUNware：搞笑的产品，虽然很有意思，但是却无法形成商业模式。</li>
+<li>NICHEware：小众产品，这些产品的市场非常小。</li>
+<li>FUTUREware：概念太过超前的产品。</li>
+<li>ARTware：只有艺术气质的产品。</li>
+<li>VAPORware：所谓“蒸汽硬件”，这是个十几年前出现的概念，指仅有概念，并没有作出实物的产品。</li>
+<li>LOCALware：只针对某个特定地区的产品。</li>
+<li>SOLUTIONware：专门用作某种单一问题的解决方案的产品。</li>
+<li>LAMEware：缺少某种重要特性的产品。</li>
+<li>LATEware：跟<span style="color: rgba(0, 0, 0, 0.8);">FUTUREware相反，是</span>应该出来的时间之后很久才出来的。</li>
+<li>BOREware：无聊，无趣的产品。</li>
+<li>FAILware：被证明失败的产品。</li>
+</ul>
+<p>HAXLR8R 的两位创始人是 Sean O’Sullivan 和 Cyril Ebersweiler ，其中 Ebersweiler 曾经创立了种子轮融资平台中国加速，该平台2009年创立，后总部由大连迁到上海，现在主要关注软件创业。</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/2014/08/17/29595/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>TC北京圆桌：风投热衷投非常早期或准备上市的成熟公司</title>
+		<link>/blog/2014/08/17/29592/</link>
+		<comments>/blog/2014/08/17/29592/#respond</comments>
+		<pubDate>Sun, 17 Aug 2014 02:12:27 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[新闻]]></category>
+		<category><![CDATA[TechCrunch北京]]></category>
+
+		<guid isPermaLink="false">http://cn.technode.com/?p=29592</guid>
+		<description><![CDATA[2014年TechCrunch国际创新峰会·北京站活动8月11-12日在北京朝阳规划艺术馆举行。动点科技和Te [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://cn.technode.com/files/2014/08/QQ20140814-11.png"><img class="alignnone size-full wp-image-29593" src="http://cn.technode.com/files/2014/08/QQ20140814-11.png" alt="QQ20140814-1" width="993" height="729" /></a></p>
+<p>2014年TechCrunch国际创新峰会·北京站活动8月11-12日在北京朝阳规划艺术馆举行。动点科技和TechCrunch中国作为大会主办方，对本次活动进行全程报道。</p>
+<p>纪源资本董事总经理童士豪，红杉资本合伙人计越，戈壁合伙人朱璘，IDG资本合伙人李丰，加入了圆桌论坛，并且分享了他们对于中国科技创业的见解。以下是动点编辑 <a href="http://technode.com/2014/08/14/chinese-top-vcs-trends-china/" target="_blank">Tracey 的几点总结</a>。</p>
+<ol>
+<li>在硅谷和中国，今年上半年都发生了比以往多得多的投资，而这些创业公司估值都很高——在中国的创业公司甚至比在美国的估值更高。小米现在估值超过50亿美元。长期以来，金钱会追逐那些有质量的创业公司，金钱堆积的速度快过企业本身的成长速度。</li>
+<li>但是嘉宾们不认为这跟在21世纪初发生的互联网泡沫是同一回事。首先，那个时候整个世界一共有7500万互联网用户，现在只在印度一个国家就超过了一亿网民，就更不用说中国的网民了。同样，在过去的一年当中，数以千万计的智能手机被卖到了美国和中国，保证了移动应用市场的持续增长。其次，有一些高的估值的公司是很大的，有质量的中国科技企业，他们在过去几年中国数千家创业公司拼杀当中脱颖而出。</li>
+<li>风险投资者对于科技公司投资的偏好是分化的；要么会投非常早期阶段的公司，可能在种子期阶段，要么就要非常晚，可能快要上市了才投。</li>
+<li>从去年到今年有一些中国科技企业公开上市，不像之前的那些公司——他们主要的盈利模式都是广告；最近的这些公司，比如58同城和阿里巴巴，他们都是通过平台实现了商业模式的转换，这对于投资者提高期望很有帮助。在过去15年当中，广告和游戏是被中国科技企业广泛接受的两种盈利模式，创造了一个总价值200亿人民币（折合33亿美元）的大市场，基于交易的商业模式，可能会创造一个更大的市场。</li>
+</ol>
+<p><a style="color: #ff6600" href="http://www.sequoiacap.cn/zh/">红杉</a>在中国支持了超过两百家中国的TMT领域的早期领域的企业，比较著名的包括奇虎360，唯品会和聚美优品。在纽交所上市的聚美从零变成中国最大的网上零售商之一，只用了四年时间。它的市值达到500亿美元。</p>
+<p><a style="color: #ff6600" href="http://www.idg.com.cn/n12/n53/">IDG </a>是中国非常知名的投资机构，在接受其投资的公司当中，迅雷是在今年六月份登陆纳斯达克。</p>
+<p>纪源资本（<a style="color: #ff6600" href="http://en.ggvc.com/about-ggv">GGV Capital</a>）在硅谷和中国都有团队，支持了包括阿里巴巴，土豆，多玩，去哪儿在内的科技企业。童士豪是去年开始在纪源资本的工作的，之前他是在启明创投领导了对小米等中国科技企业的早期投资。现在他主要投资的是跨界的移动电商产品和游戏平台。</p>
+<p><a style="color: #ff6600" href="http://www.gobi.cn/">戈壁创投</a>主要针对云计算，智能硬件和旅游等服务。其中比较著名的投资对象是途牛旅行网，五月份他们在纳斯达克上市。</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/2014/08/17/29592/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>TC北京圆桌：智能硬件当前的缺憾及未来发展方向</title>
+		<link>/blog/2014/08/17/29588/</link>
+		<comments>/blog/2014/08/17/29588/#respond</comments>
+		<pubDate>Sun, 17 Aug 2014 01:02:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[新闻]]></category>
+		<category><![CDATA[TechCrunch北京]]></category>
+
+		<guid isPermaLink="false">http://cn.technode.com/?p=29588</guid>
+		<description><![CDATA[2014年TechCrunch国际创新峰会·北京站活动8月11-12日在北京朝阳规划艺术馆举行。动点科技和Te [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://cn.technode.com/files/2014/08/hardware-panel1.jpg"><img class="alignnone size-large wp-image-29590" src="http://cn.technode.com/files/2014/08/hardware-panel1-1024x682.jpg" alt="hardware-panel1" width="700" height="466" /></a></p>
+<p>2014年TechCrunch国际创新峰会·北京站活动8月11-12日在北京朝阳规划艺术馆举行。动点科技和TechCrunch中国作为大会主办方，对本次活动进行全程报道。</p>
+<p>本届峰会最后一项议程是跟硬件创新有关，特意请到了跟 TC 同在美国在线旗下的 Engadget 的编辑 Richard Lai 过来主持这个环节。</p>
+<p>参与嘉宾包括智能手表 <a style="color: #ff6600;" href="http://www.omate.com/">Omate</a> 的 创始人 &amp; CEO Laurent Le Pen，富士康旗下智能硬件平台 <a style="color: #ff6600;" href="http://kick2real.com/">Kick2Real</a> （梦富成真计划）的创始人联合负责人林泰龙，移动搜索应用出门问问的创始人 &amp; CEO 李志飞以及智能体重秤 <a style="color: #ff6600;" href="http://www.picooc.com/CH/index_CH.html">PICOOC</a> 的创始人张悦。</p>
+<p>主持 Richard Lai 开场问的问题是：智能硬件领域现在正在缺失的东西是什么？李志飞回答说，可能大多数所谓的“智能科技”设备不够“智能”，以至于配不上这个称呼。</p>
+<blockquote><p>“它们大多数是跟其他设备相连的蓝牙设备，没有足够智能到可以认识到你的个人信息，一般都是来收集数据然后就完事了。如果它帮不到你的话，是无法被真正称为一个智能设备的。”</p>
+<p>“真正的智能是收集数据之后分析数据，并去提升你的生活质量。例如，如果一个设备可以探测到你身体的姿势不对，并且震动来提醒你，那么这就是智能。”</p></blockquote>
+<p>张悦加入对话，他说智能硬件需要对用户无缝切换，融入他们每日的生活当中。只做硬件本身是完全不够的，硬件所包含内容仍然是王者。</p>
+<blockquote><p>“一大批智能硬件设备火了一段时间之后就不再吃香了，那些使用者会停止穿戴它们。你没有办法从硬件本身来赚钱，你的服务和内容必须是可以盈利的。如果你的用户停止穿戴你的设备，你就会失去一个客户。很多人觉得硬件是进入业务的入口，但是事实是，你的软件如何帮助用户显得更加重要。”</p></blockquote>
+<p>代表富士康出席的林泰龙介绍了他们的 <a style="color: #ff6600;" href="http://kick2real.com/">Kick2Real</a> 平台，这是帮助创业者制造硬件原型的免费服务，今年四月份已经开始运作了。林泰龙表示他们目前已经接到超过三百个申请，但是：</p>
+<blockquote><p>“基本上我们遇到的问题是缺少一个好的团队。对于我们来说，这应该是软硬相结合的问题。富士康做这个平台的动机是简单的：我们不希望错过下一个雷军（小米的联合创始人和CEO）。”</p>
+<p>“有了这个平台之后，我们希望能够跟更多的创业者交流和工作。我们可以保护你的知识产权，帮助你找到一个好的法律团队，帮助你在进入市场之前确立良好的商业模式。”</p></blockquote>
+<p>Richard Lai 接下来继续询问，哪种形式在未来有可能会是智能硬件的主流？对于这个，Laurent Le Pen 说，可以穿戴在手腕上的设备现在依然是最红火的。眼镜可能会变得不那么主流。</p>
+<blockquote><p>“当我们开始公司的时候，我们决定做最主流的东西，依然处于整个社区的早期阶段。制作眼镜应该会很复杂，所以我们发布的最早东西是在手腕上，并且持续关注这个社区的发展，而且我们是从智能手表开始的。”</p></blockquote>
+<p>他进一步补充说，对于设计师来说，从时尚行业当中学习是很重要的，因为它的形态和感觉，以及可穿戴设备的组织形式是很重要的。</p>
+<p>李志飞紧接着说，对智能硬件在市场上有大量的分类，可以从鞋底插入物，袜子，短袖衣服，甚至是指环方面去考虑。他说，任何可以穿在身上的东西都可以成为一个智能设备。</p>
+<blockquote><p>我不认为会有某种款式的智能设备成为主流，相对来说，最终所有这些设备都会变成非常平常的部件，并且彼此相连，可以收集和使用数据，来改善用户的生活质量。</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>/blog/2014/08/17/29588/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>网络安全技术公司 CloudFlare 决定小心谨慎地进入中国市场</title>
+		<link>/blog/2014/08/16/29585/</link>
+		<comments>/blog/2014/08/16/29585/#respond</comments>
+		<pubDate>Sat, 16 Aug 2014 14:08:36 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[新闻]]></category>
+		<category><![CDATA[TechCrunch北京]]></category>
+
+		<guid isPermaLink="false">http://cn.technode.com/?p=29585</guid>
+		<description><![CDATA[&#160; 2014年TechCrunch国际创新峰会·北京站活动8月11-12日在北京朝阳规划艺术馆举行。 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://cn.technode.com/files/2014/08/Cloudflare.jpg"><img class="alignnone size-large wp-image-29586" src="http://cn.technode.com/files/2014/08/Cloudflare-1024x682.jpg" alt="Cloudflare" width="700" height="466" /></a></p>
+<p>&nbsp;</p>
+<p>2014年TechCrunch国际创新峰会·北京站活动8月11-12日在北京朝阳规划艺术馆举行。动点科技和TechCrunch中国作为大会主办方，对本次活动进行全程报道。</p>
+<p>CloudFlare 公司创始人和 CEO Matthew Prince 加入了 TechCrunch 国际创新峰会·北京站第二天的谈话，他跟 TechCrunch 和 CrunchBase 编辑 Jonathan Shieber 做了一个范围广泛的对谈，在谈话期间，他从中国市场到公司运营讲了很多事情。</p>
+<p>如果你对于 CloudFlare 这家公司并不了解，那么我们做一个简单的介绍：这是给网站主提供的服务，可以让他们免受攻击威胁，可以提高页面加载的速度，并且优化不同设备之间的内容访问。在五年前，他们在一个 TechCurnch 举行的活动上最早发布。公司目前增长迅速，在2012年已经获得五千万美元的c轮融资，公司估值达到十亿美元。</p>
+<p>CloudFlare 目前正准备寻找中国合作伙伴，开展中国市场业务，即使他们目前没有简体中文版本，目前在中国也已经有很多客户在使用他们的服务。中国已经是公司第二大市场。</p>
+<p>然而，他并不是完全放心在中国的发展；他觉得在中国应该步子缓慢但却坚实，因为“中国是一个非常特别的市场，它有着特别的关注点。几乎所有美国企业进入中国的时候都有过失败。我们也有可能会失败，但是我们希望失败的聪明一点。如果我们足够幸运的话那我们就有可能成功。”</p>
+<p>CloudFlare 仍然在寻找符合自己质量要求的合作伙伴，公司需要具有最高技术，并且有最佳资源，能够提供给全世界服务的合作伙伴。</p>
+<p>今年六月 Prince 发布推特消息，表示公司正考虑把亚洲总部从新加坡搬到香港。最主要的原因是，他们最近服务了一些香港客户，并且受到了广泛的好评。</p>
+<p>在谈及进入中国，欧洲，美洲等新市场的扩张的过程的时候，他说其中一个关键的要点是，确保公司能够遵循和尊重这些区域的法律。</p>
+<p>在公司运营方面，Prince 表示公司最大的投资是在人才招募方面。尽管最新的一轮融资让他们有能力聘请更多的人加入，他表示他们不会求快，但是会求稳，会寻找更聪明的，更喜欢公司文化的那些人。CloudFlare 其他的支出用于硬件，设备和网络支持。实际上，公司对于硬件已经有了一个专门的物流团队。</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/2014/08/16/29585/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>TC北京圆桌：企业应用提供商如何说服传统企业和大企业</title>
+		<link>/blog/2014/08/14/29548/</link>
+		<comments>/blog/2014/08/14/29548/#respond</comments>
+		<pubDate>Thu, 14 Aug 2014 05:28:27 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[新闻]]></category>
+		<category><![CDATA[TechCrunch北京]]></category>
+
+		<guid isPermaLink="false">http://cn.technode.com/?p=29548</guid>
+		<description><![CDATA[2014年TechCrunch国际创新峰会·北京站活动8月11-12日在北京朝阳规划艺术馆举行。动点科技和Te [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://cn.technode.com/files/2014/08/18.jpg"><img class="alignnone size-large wp-image-29549" src="http://cn.technode.com/files/2014/08/18-1024x682.jpg" alt="18" width="700" height="466" /></a></p>
+<p>2014年TechCrunch国际创新峰会·北京站活动8月11-12日在北京朝阳规划艺术馆举行。动点科技和TechCrunch中国作为大会主办方，对本次活动进行全程报道。</p>
+<p>企业级软件就算并不是最激动人心的产品，过去几年在中国也获得了长足的发展。对于客户关系管理（CRM），员工表现管理，供应链，以及移动解决方案等都提供了SaaS（软件即服务）解决方案。去年，明道和法兴软件这样的公司都获得了大额投资。在这一领域三个比较主流的公司高管：又拍云的COO沈志华，明道的任向辉，和TalkingData的蒋奇，跟我坐下来聊了聊这个产业的具体情况。</p>
+<p>我首先问了他们三个如何从最开始跟企业不太相关的产品，转型到企业级软件。任向辉和沈志华的回答很简单，因为这是源自他们自己最初业务当中萌生的需求，他们自己是这些企业级产品最早的一批用户。TalkingData则经历了从一揽子广告营销服务，到专精数据服务的转变，这在我<a title="[ChinaBang 2014] TalkingData CEO崔晓波：数据中立的前提是专注" href="http://cn.technode.com/post/2014-03-31/chinabang-talkingdata/">之前跟他们CEO崔晓波的交谈</a>中提到过。</p>
+<p>企业客户也是有大有小的，特别大型的企业，尤其是国企和传统公司，如何接受企业级软件,是尤为引人关注的一个话题。蒋奇提及他们的银行和央视等大客户时说，像央视这样的传统企业，实际上还是很愿意拥抱新技术的，并且对互联网了解的很好。</p>
+<p>但是，对于这种变革的阻碍力量，实际上是公司当中的IT部门。任向辉提及了推广的难处：CTO/CIO对于拥抱新的工具特别不情愿，因为他们已经习惯了自己所使用过的传统工具。老板倒是更加开明一点。任向辉觉得老板的动机会决定这一切是否顺利，如果软件会带来效率，老板毫无疑问会要求引入。</p>
+<p>这个观点得到沈志华的赞同。他说，改变通常是因为决策者的直接推动而产生的，例如，营销部门要想获得数据相关的解决方案，在非IT部门的变革要求最终会扩散到IT部门。这取决于公司是否觉得学习新工具是值得的，如果产品最终能够带来更大的生产力，那么企业一定会接受的。</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/2014/08/14/29548/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>TC北京圆桌：加密货币在中国的挑战与远景</title>
+		<link>/blog/2014/08/14/29539/</link>
+		<comments>/blog/2014/08/14/29539/#respond</comments>
+		<pubDate>Wed, 13 Aug 2014 18:26:10 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[新闻]]></category>
+		<category><![CDATA[TechCrunch北京]]></category>
+
+		<guid isPermaLink="false">http://cn.technode.com/?p=29539</guid>
+		<description><![CDATA[2014年TechCrunch国际创新峰会·北京站活动8月11-12日在北京朝阳规划艺术馆举行。动点科技和Te [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://cn.technode.com/files/2014/08/crypto.jpg"><img class="alignnone size-large wp-image-29540" src="http://cn.technode.com/files/2014/08/crypto-1024x682.jpg" alt="crypto" width="700" height="466" /></a></p>
+<p>2014年TechCrunch国际创新峰会·北京站活动8月11-12日在北京朝阳规划艺术馆举行。动点科技和TechCrunch中国作为大会主办方，对本次活动进行全程报道。</p>
+<p>比特币和加密货币产业，在过去的一年经历了戏剧性的变化而上下波折，人们对于加密货币的观点趋向分化，业界领袖甚至政府之间分歧非常大。在峰会第二天的论坛当中，在这一领域非常重要的五个人物聚集到了一起，他们和主持人，500 Startups 大中华区的负责人马睿共同交流了他们在比特币和数字货币产业的一些观点。</p>
+<p>全世界一共有超过200种加密货币，但是绝大多数交易平台只会针对其中的几个。在中国领先的比特币交易服务OKCoin当中，CEO徐明星表示，这个平台目前只支持比特币和莱特币的交易。徐明星还表示他们正准备引入新的加密货币到平台当中，但是要严格控制投资者带来的风险。技术稳定且被用户良好的接受的币种就可以进驻。</p>
+<p>加密货币交易所火币网的创始人和CEO李林，和徐明星的观点一致。他表示火币网有一个内部评估系统，来探讨新的虚拟货币是否值得进入，其标准包括市值，流动性等等。火币网在三月份引入了莱特币交易。</p>
+<p>火币网在六月发布了一个交易平台<a style="color: #ff6600;" href="https://www.bitvc.com/">BitVC</a>，是专门用于在其中的货币产品的，李林说平台的定位是想全球化，海外用户占据了总用户当中的50%。火币网还受够了比特币交易软件快钱包。</p>
+<p>ItBit 是在系统安全，市场推广和数据保持方面领先的比特币服务提供商，同时也是最先引入全球金融交易所的投资平台之一。公司的创始人和CEO Richmond Teo表示，尽管目前不支持人民币交易，他们正在和中国本土平台合作，以进入中国市场。</p>
+<p>Melotic 和之前的三家公司都不同——那三家公司的焦点是像比特币或莱特币这样的加密货币交易，但是Melotic的联合创始人和首席技术官陈寅指出，公司应该说是一个数字资产交易平台。他举了两个目前正在平台上进行交易的数字资产的例子：第一个是以比特币作本位的虚拟货币，会被分发给内容的贡献者和读者，同时可以用来为广告或者网络媒体付费；另外一个则是金本位的数字货币。</p>
+<p>李林认为，比特币产业现在面临的最大挑战，是仍然没有找到应用场景。用户看不到比特币最直观的价值。作为一种货币，使用者只可以在它的用户数量达到一定规模的时候，才能够看到这货币的价值所在。但是截至目前，比特币产业仍然在早期发展阶段，仍然在吸引种子用户。</p>
+<p>比特币产业在2013年获得了井喷式的增长，投资者的数量在2013年年底到达五百到一千万人，但是徐明星说我们仍然有一条很长的路要走。“我们关键的挑战是，持续不断地对基础架构进行升级和改进。”</p>
+<p>Teo 说，在整个产业当中最显著的挑战，是传统的银行交易所，金融机构和比特币交易所之间缺乏合作。“我们需要开发的更快，否则传统的银行或者支付方法，会投资性质类似的加密货币来替换比特币。”</p>
+<p>但是对于陈寅来说，挑战主要是来自尚未明确的监管因素，因为这会导致应用和基础架构的发展降温。同样对P2P借贷领域也存在监管风险。</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/2014/08/14/29539/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Leap Motion 月底正式入华，联手神州数码</title>
+		<link>/blog/2014/08/14/29536/</link>
+		<comments>/blog/2014/08/14/29536/#respond</comments>
+		<pubDate>Wed, 13 Aug 2014 18:08:56 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[新闻]]></category>
+		<category><![CDATA[TechCrunch北京]]></category>
+
+		<guid isPermaLink="false">http://cn.technode.com/?p=29536</guid>
+		<description><![CDATA[2014年TechCrunch国际创新峰会·北京站活动8月11-12日在北京朝阳规划艺术馆举行。动点科技和Te [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://cn.technode.com/files/2014/08/QQ20140813-1.png"><img class="alignnone size-full wp-image-29537" src="http://cn.technode.com/files/2014/08/QQ20140813-1.png" alt="QQ20140813-1" width="950" height="656" /></a></p>
+<p>2014年TechCrunch国际创新峰会·北京站活动8月11-12日在北京朝阳规划艺术馆举行。动点科技和TechCrunch中国作为大会主办方，对本次活动进行全程报道。</p>
+<p>Leap Motion 联合创始人和CEO Michael Buckwald 宣布了和神州数码的合作关系，神州数码将会成为他们的动作跟踪产品在中国的独家销售商。</p>
+<p>神州数码是中国最大的IT基础设施服务提供商，和消费IT产品的分销商。在本周内，双方将会对本地开发者进行一场黑客马拉松比赛；在本月底举行的官方发布会上，有一些中国开发者所做的应用程序，会在那个时候抢先亮相。</p>
+<p>Leap Motion 和神州数码将会针对中国市场的营收分成，那些创造应用程序的开发者，同样也会在软件本身以及软件内部的销售当中分成。</p>
+<p>Leap Motion 从2010年开始创建一种手指动作控制技术，在全世界产生巨大影响。它的解决方案被嵌入某些电脑键盘或者笔记本电脑当中，采用的厂家包括惠普和华硕等等。通过USB接口的控制器设备Leap Motion Controller可以让你把任何一台普通的PC或者苹果电脑，装备成可以使用手势互动的产品。2012年最初发布之后，在2013年7月大规模上市。公司随后建立了一个应用商店Airspace，其中包括超过150款应用，他们也鼓励第三方开发者为这一控制器的用户，和之前提到的计算机开发应用。目前Leap Motion总共获得的融资额达到4400万美元。</p>
+<p>两个月以前 Buckwald 告诉动点英文编辑Tracey说，他们正在寻找本地的合作伙伴，经销商，PC制造商，和可能会对在应用商店Airspace当中构建应用程序感兴趣的本地开发者。现在产品在京东对智能硬件的分网站上面销售。在产品销往的前五位的市场当中，中国占有一席之地，其官方网站也有一个中文版。</p>
+<p>同时中国也有了同类产品出现。总部在中国天津的Sharpnow公司——有趣的是该公司并不是在中国的硬件创业基地深圳——做了一个设备，看起来非常像Leap Motion控制器，现在正在点名时间上筹资，准备十月份出货第一批产品。这个产品的售价要比原版Leap Motion要低。今年早些时候Sharpnow获得了经纬创投中国分支的种子轮融资，大概有几百万元人民币的样子。公司说他们会做一些改进，同样会让设备与一些低配置的设备兼容；很大一批中国用户的电脑配置都不是特别高。</p>
+<p>另外，Sharpnow表示已经和智能电视，而不是桌面和笔记本电脑合作。Leap Motion将会进入其他的设备当中，比如说联网的汽车。</p>
+<p>但是在科技业界的很多人相信，不像即时消息之类的应用——那些产品的克隆体会像素级抄袭，而 Leap Motion 所采用的技术是难以被复制的，制造者和开发者最终可以辨别出其中的区别。</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/2014/08/14/29536/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kanishk Parashar 现场演示 Coin ：n 合一的信用卡</title>
+		<link>/blog/2014/08/14/29532/</link>
+		<comments>/blog/2014/08/14/29532/#respond</comments>
+		<pubDate>Wed, 13 Aug 2014 17:56:48 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[新闻]]></category>
+		<category><![CDATA[TechCrunch北京]]></category>
+
+		<guid isPermaLink="false">http://cn.technode.com/?p=29532</guid>
+		<description><![CDATA[2014年TechCrunch国际创新峰会·北京站活动8月11-12日在北京朝阳规划艺术馆举行。动点科技和Te [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://cn.technode.com/files/2014/08/IMG_6270-1024x682.jpg"><img class="alignnone size-full wp-image-29533" src="http://cn.technode.com/files/2014/08/IMG_6270-1024x682.jpg" alt="IMG_6270-1024x682" width="1024" height="682" /></a></p>
+<p>2014年TechCrunch国际创新峰会·北京站活动8月11-12日在北京朝阳规划艺术馆举行。动点科技和TechCrunch中国作为大会主办方，对本次活动进行全程报道。</p>
+<p>如果你的口袋正在被多种多样的信用卡和借记卡塞得鼓鼓囊囊，并且为此不胜其扰的话，那么你一定会很喜欢 Coin 这款产品。这是一种实体的卡片，可以让你存储所有的信用卡和借记卡信息，而同时任何可以刷的卡片都可以存储在这里。</p>
+<p>公司的创始人 Kanishk Parashar 在TC 北京峰会上介绍 Coin 产品，做了一个动态的产品演示。他说，</p>
+<blockquote><p>“在市场上我们经常会尝试创建一种根据科技所带来的解决方案。我们告诉他们说，他们可以使用指纹支付，并且使用其他技术，来让支付过程更好，更安全。但是科技本身并不会驱动人们的选择，因为真实的世界当中的商业规模太大了，所以科技不一定能跟得上他的脚步。需要改变一些人的观点，如果消费者开始使用一种新技术的话，相关的商业也必须改变，反过来也是一样的。”</p></blockquote>
+<p>Parashar 继续指出，新的技术被引入支付领域当中，可以允许用户通过新技术更好的去做他们已经适应的事情。这也就是 Coin 这款产品着眼的地方。</p>
+<p><img class="alignnone size-large wp-image-29534" src="http://cn.technode.com/files/2014/08/coin_product-1024x768.jpg" alt="coin_product" width="700" height="525" /></p>
+<p>Coin 是一个细小的，黑色的设备，适合你的钱包尺寸，并且存储所有的卡片信息。</p>
+<p>“它看起来和感觉上都可以跟塑料卡片一样，除了把你所有的卡片信息都记到一起，并且允许你使用其中任何一张卡片。”讲解的同时，Parashar 把这张细小的黑色橡胶卡片握在手中。</p>
+<p>在他的现场演示当中，向观众展示了一个人可以在 Coin 当中切换到不同的信用卡。可以按下一个小型的按键，直到显示器显示你要使用的卡片。他点击了按键，然后在显示屏上显示了‘VISA’（“维萨卡”）的字样。然后，他把这张卡划过一个支付终端，就好像一个人正常的刷一张信用卡一样，然后开始签帐。他重复演示，这个时候换了一张‘AMEX’（“美国运通卡”），也同样成功的完成支付过程。</p>
+<p>要想把多种卡片的信息上传到 Coin 当中，用户可以通过一个划卡槽来刷他们的卡片，这样就可以让 Coin 通过移动应用来上传信息。</p>
+<p>Coin 在美国已经相当流行了，去年在旧金山发布之后的前五个小时，通过它做交易的金额就达到一百万美元。Parashar 同样提到中国正在开展离线商务，对于他们来说是一个非常有潜力的市场。</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/2014/08/14/29532/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Secret 中国负责人：中国是匿名社交软件极好的发展土壤</title>
+		<link>/blog/2014/08/14/29529/</link>
+		<comments>/blog/2014/08/14/29529/#respond</comments>
+		<pubDate>Wed, 13 Aug 2014 17:45:44 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[新闻]]></category>
+		<category><![CDATA[TechCrunch北京]]></category>
+
+		<guid isPermaLink="false">http://cn.technode.com/?p=29529</guid>
+		<description><![CDATA[2014年TechCrunch国际创新峰会·北京站活动8月11-12日在北京朝阳规划艺术馆举行。动点科技和Te [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://cn.technode.com/files/2014/08/19.jpg"><img class="alignnone size-large wp-image-29530" src="http://cn.technode.com/files/2014/08/19-1024x682.jpg" alt="19" width="700" height="466" /></a></p>
+<p>2014年TechCrunch国际创新峰会·北京站活动8月11-12日在北京朝阳规划艺术馆举行。动点科技和TechCrunch中国作为大会主办方，对本次活动进行全程报道。</p>
+<p>Secret在中国的运营负责人Eva Li表示“匿名社交非常的适合中国的处境”。这个匿名应用在美国，以色列和巴西都获得了极高的人气，占据了社交应用排行榜的首位。Li解释了为什么Secret这款软件，会与中国人的社交习惯不谋而合。</p>
+<p>Li认为，Secret所提供的东西和年轻的中国人在社交体验中所追求的东西是能够重合的——基于位置的功能可以让人们查找到自己附近的机密信息，同时建立了一种在陌生人之间的信任等级，让人们在相对亲密的圈子之内——有可能是朋友，或者是朋友的朋友——探索，这种办法契合了年轻人要讲悄悄话，弄个大新闻，消磨时间，和相互吸引的需求。</p>
+<p>Li指出Secret已经在中国建立了一个团队，是与其他讲英语的地区相独立的。这样做的原因是中国有大量的“次文化”，例如中国的90后一代，他们“匿名但是似曾相识”的社交圈子，正好与这种年轻人需要炫耀，自我标榜和娱乐的心理不谋而合。</p>
+<p>中国已经有十几个Secret的克隆版本，在被问到如何看待这些中国的山寨版本的时候，Li表示欢迎竞争，但是会拒绝直接克隆的产品，同时会不排除将其诉诸法律。</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/2014/08/14/29529/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
