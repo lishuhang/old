@@ -165,7 +165,6 @@ NTV News 24 Japan,https://n24-cdn-live.ntv.co.jp/ch01/Low.m3u8
 NTV News 24 Japan,https://n24-cdn-live-b.ntv.co.jp/ch01/Low.m3u8
 YTN,http://112.175.248.34:1935/ytn/_definst_/ylivehd_20140419_1/playlist.m3u8
 YTN,http://210.100.217.57:9981/stream/channelid/1045018312?ticket=B4FA003AE929D4F7D0974B5889E7436074F56EF1&profile=pass
-TV Chosun,http://live.chosun.gscdn.com/live/tvchosun1.stream/chunklist.m3u8
 Tagesschau24,http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 ARD Tagesschau,http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
 BFMTV,https://bfmtvalive1-a.akamaihd.net/8a3483ffeb9d40f0a738c1392f2bcc14/eu-central-1/876450610001/profile_0/00e965fc653a4efabf4cbd8d551ac725/chunklist_ssaiM.m3u8
@@ -251,6 +250,14 @@ Mediacorp chU,https://d3inlz9elsutjl.cloudfront.net/hls/chupcweb/prog_index.m3u8
 Mediacorp Suria,https://d11h6a6nhl9kj9.cloudfront.net/hls/suriapcweb/prog_index.m3u8
 Mediacorp Vatantham,https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmpcweb/prog_index.m3u8
 Mediacorp Okto Sports,https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
+
+[Japan & Korea]
+SBS,http://live.sbs.co.kr/sbsch6pc/_definst_/sbsch63.stream/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1Mjg0MjUzMDgsInBhdGgiOiIvc2JzY2g2cGMvX2RlZmluc3RfL3Nic2NoNjMuc3RyZWFtIiwiZHVyYXRpb24iOiItMSJ9.JyPVUgXuOtzWHniMZ6sKllxiAE60IaWEWQdwHhjhdco
+SBS,http://live.sbs.co.kr/sbsch6/_definst_/sbsch61.stream/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1Mjg0MjUzOTYsInBhdGgiOiIvc2JzY2g2L19kZWZpbnN0Xy9zYnNjaDYxLnN0cmVhbSIsImR1cmF0aW9uIjoiLTEifQ.NShIGezldMi68Zia1LrBkDdd4mYpcmxeAM4R_fP9-OI
+
+YTN Korean,http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/manifest.m3u8
+TV Chosun,http://live.chosun.gscdn.com/live/tvchosun1.stream/chunklist.m3u8
+
 
 [Europe]
 LondonLive,http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
