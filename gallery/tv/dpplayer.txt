@@ -11,6 +11,21 @@ CCTV4,http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
 CCTV4,http://ivi.bupt.edu.cn/hls/cctv4.m3u8
 CCTV4,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225521/index.m3u8
 CCTV4,http://39.134.52.180/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225978/index.m3u8
+CCTV5,http://223.110.243.135/PLTV/3/224/3221226324/index.m3u8?servicetype=1&icpid=88888888&from=1&hms_devid=3424
+CCTV5,http://hnxy.chinashadt.com:1936/live/tv3.stream_aac/playlist.m3u8
+CCTV5,http://hnsyx.chinashadt.com:2036/live/tv17.stream/playlist.m3u8
+CCTV5,http://hbzz.chinashadt.com:2036/live/3.stream/playlist.m3u8
+CCTV5,http://jxyz.chinashadt.com:2036/live/yz4.stream/playist.m3u8
+CCTV5,http://hbsh.chinashadt.com:2036/live/8.stream/playlist.m3u8
+CCTV5,http://ahtc.chinashadt.com:2036/live/6.stream/playlist.m3u8
+CCTV5,http://hbmc.chinashadt.com:2740/live/di5.stream_360p/playlist.m3u8
+CCTV5,http://hbry.chinashadt.com:1938/live/1004.stream_360p/playlist.m3u8
+CCTV5,http://sxws.chinashadt.com:1936/live/tv5.stream_360p/playlist.m3u8
+CCTV5,http://hnsd.chinashadt.com:2036/zhuanma/stream:cctv5.stream_360p/playlist.m3u8
+CCTV5,http://35498.hlsplay.aodianyun.com/guangdianyun_35498/tv_channel_429.m3u8
+CCTV5,http://34862.hlsplay.aodianyun.com/guangdianyun_34862/tv_channel_440.m3u8
+CCTV5,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
+CCTV5,http://124.47.33.200/PLTV/88888888/224/3221225489/index.m3u8
 CCTV5,http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8
 CCTV5,http://ivi.bupt.edu.cn/hls/cctv5.m3u8
 CCTV5+,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
@@ -66,6 +81,7 @@ BesTV Sports 1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226030/i
 BesTV Sports 2,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226035/index.m3u8
 Movie Channel 1,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8
 CHC HD Movies,http://ivi.bupt.edu.cn/hls/chchd.m3u8
+CHC Action Movie,http://hbmc.chinashadt.com:2739/live/dzdy.stream_360p/playlist.m3u8
 SinoVision,http://media3.sinovision.net:1935/live/livestream/playlist.m3u8
 
 [Chinese News]
@@ -82,7 +98,10 @@ Knews24,http://hls.live.kksmg.com/live/live24h/playlist.m3u8?se=kankan&ct=2&_cp=
 CBN,http://w1.livecdn.yicai.com/hls/live/CBN_ld/live.m3u8
 CBN,http://m1.livecdn.yicai.com/hls/live/CBN_ld/live.m3u8
 CBN,http://183.207.249.7/PLTV/3/224/3221225573/index.m3u8
-TVB iNews,http://edge26-1.edgeware.hk4.tvb.com:80/session/2005bfa6-60de-11e8-bc51-005056b12cf7/dtysfd/newslive/smil:mobilehd_inews.smil/playlist.m3u8
+TVB iNews,http://edge20-1.edgeware.hk4.tvb.com/session/d33b8628-75ab-11e8-8f38-0050569023d7/qh33qv/newslive/smil:mobilehd_inews.smil/playlist.m3u8
+TVB Finance,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
+TVB Finance,http://edge28-1.edgeware.hk4.tvb.com/session/f644f9ba-75ab-11e8-af29-005056b12cf7/qh33qv/newslive/smil:mobilehd_finance.smil/playlist.m3u8
+TVB Entertainment,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 Yaocai Finance,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 Now News,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch332)/Stream(03)/index.m3u8
 Now Finance,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch333)/Stream(02)/index.m3u8
@@ -199,21 +218,26 @@ Adult Swim,http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/m
 [Hong Kong]
 Phoenix TV,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
 Phoenix Hong Kong,http://223.82.250.72/ysten-bussiness/live/fhhongkong/1.m3u8
-TVB Jade,http://acm.gg/j.m3u8
-Viu TV,http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
+TVB Jade,http://pulllive-al.wasu.cn/live/d97e0342e848dbc54a25a99d303b556d.m3u8
+TVB Jade,http://qqpull.inke.cn/live/1529495855458960.m3u8
+TVB Pearl,http://pulllive-al.wasu.cn/live/487040cf86d8b52e24e3b593d2cf61f8.m3u8
+ViuTV,http://viutv99-i.akamaihd.net/hls/live/265284/live1/stream4/streamPlaylist.m3u8
+ViuTV,http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
 Fantastic TV,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 Fantastic TV,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 HKSTV,http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8
 Sun TV,https://stream.isuntv.com/680k/mid_video_index.m3u8
 
-[Macau]
-TDM 1,http://live1.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-TDM Macau,http://live1.tdm.com.mo/ch2/ch2.live/playlist.m3u8
-TDM Sat,http://live1.tdm.com.mo/ch3/ch3.live/playlist.m3u8
-TDM Sport,http://live1.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-TDM HD,http://live1.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+[Macau & Taiwan]
+TDM 1,http://live4.tdm.com.mo/ch1/definst//ch1.live/playlist.m3u8
+TDM Macau,http://live4.tdm.com.mo/ch2/definst//ch2.live/playlist.m3u8
+TDM Sat,http://live4.tdm.com.mo/ch3/definst//ch3.live/playlist.m3u8
+TDM Sport,http://live4.tdm.com.mo/ch4/definst//ch4.live/playlist.m3u8
+TDM HD,http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/playlist.m3u8
+ELTA Sports 3,rtmp://wv2.tp33.net:1935/sat/md041
 
 [Chinese Religious]
+NTDTV,http://174.127.67.246/live400/playlist.m3u8
 GoodTV 1,http://live.streamingfast.net/osmflivech1.m3u8
 GoodTV 1,http://live-350k.streamingfast.net/osmflivech1.m3u8
 GoodTV 2,http://live.streamingfast.net/osmflivech2.m3u8
@@ -254,10 +278,24 @@ Mediacorp Okto Sports,https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_in
 [Japan & Korea]
 SBS,http://live.sbs.co.kr/sbsch6pc/_definst_/sbsch63.stream/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1Mjg0MjUzMDgsInBhdGgiOiIvc2JzY2g2cGMvX2RlZmluc3RfL3Nic2NoNjMuc3RyZWFtIiwiZHVyYXRpb24iOiItMSJ9.JyPVUgXuOtzWHniMZ6sKllxiAE60IaWEWQdwHhjhdco
 SBS,http://live.sbs.co.kr/sbsch6/_definst_/sbsch61.stream/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1Mjg0MjUzOTYsInBhdGgiOiIvc2JzY2g2L19kZWZpbnN0Xy9zYnNjaDYxLnN0cmVhbSIsImR1cmF0aW9uIjoiLTEifQ.NShIGezldMi68Zia1LrBkDdd4mYpcmxeAM4R_fP9-OI
-
+EBS2,http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
 YTN Korean,http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/manifest.m3u8
 TV Chosun,http://live.chosun.gscdn.com/live/tvchosun1.stream/chunklist.m3u8
-
+Channel China,http://123.108.164.112/etv1/phd1016/playlist.m3u8
+CBS Korea,http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
+MBN,http://edge2.everyon.tv/etv2sb/phd17/playlist.m3u8
+OBS,http://edge2.everyon.tv/etv2/phd1042/chunklist_w1741023166.m3u8
+QBS,http://edge1.everyon.tv/etv1sb/phd957/chunklist_w1009272558.m3u8
+CJ O Shopping,http://edge1.everyon.tv/etv1sb/phd1057/chunklist_w401758269.m3u8
+NBN TV,http://edge2.everyon.tv/etv2/phd639/chunklist_w302693476.m3u8
+rbs,http://edge2.everyon.tv/etv2/phd1053/chunklist_w1574455414.m3u8
+TomatoTV,http://edge1.everyon.tv/etv1/phd25/chunklist_w1130002342.m3u8
+TV SEN PLUS,http://edge1.everyon.tv/etv1sb/phd1268/chunklist_w617580583.m3u8
+National Geographic,http://edge1.everyon.tv/etv1sb/phd1297/chunklist_w1802493452.m3u8
+TBS,http://edge2.everyon.tv/etv2/phd40/chunklist_w2003601230.m3u8
+KBN,http://edge1.everyon.tv/etv1/phd387/chunklist_w1890557880.m3u8
+Unknown Korean Channel,http://edge1.everyon.tv/etv1/phd207/chunklist_w276388442.m3u8
+ONT,http://edge2.everyon.tv/etv2/phd30/chunklist_w1437445556.m3u8
 
 [Europe]
 LondonLive,http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
