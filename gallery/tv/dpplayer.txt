@@ -103,6 +103,7 @@ TVB Finance,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl
 TVB Finance,http://edge28-1.edgeware.hk4.tvb.com/session/f644f9ba-75ab-11e8-af29-005056b12cf7/qh33qv/newslive/smil:mobilehd_finance.smil/playlist.m3u8
 TVB Entertainment,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 Yaocai Finance,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+Cable News,http://ottproxy1.mott.tv/livehls/MOB-SCC/index.m3u8?token=128c23e3733abd26b35145f59b2bf86f94e726a5ceeaa96ea0139b483cb2ae928efd5679243064b8904e1fcd84b2cddb&sessionID=suBYLNfg49z4
 Now News,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch332)/Stream(03)/index.m3u8
 Now Finance,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch333)/Stream(02)/index.m3u8
 Now Live,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch331)/Stream(02)/index.m3u8
