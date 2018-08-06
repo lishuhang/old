@@ -102,9 +102,6 @@ TVB Finance,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl
 TVB Entertainment,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 Yaocai Finance,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 Cable News,http://ottproxy1.mott.tv/livehls/MOB-SCC/index.m3u8?token=128c23e3733abd26b35145f59b2bf86f94e726a5ceeaa96ea0139b483cb2ae928efd5679243064b8904e1fcd84b2cddb&sessionID=suBYLNfg49z4
-Now News,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch332)/Stream(03)/index.m3u8
-Now Finance,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch333)/Stream(02)/index.m3u8
-Now Live,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch331)/Stream(02)/index.m3u8
 Phoenix Info,http://223.110.245.139/PLTV/3/224/3221226980/index.m3u8
 Phoenix Info,http://183.251.61.198/PLTV/88888888/224/3221225901/index.m3u8
 RTHK 31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
@@ -114,7 +111,7 @@ Next TV News,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
 Next TV News,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8
 
 [World News]
-CNN,http://149.56.26.63:1935/cnewz/myStream/playlist.m3u8
+CNN,http://212.8.253.29:1935/cnew/myStream//playlist.m3u8?sechash=1as8pMJDxUJVHfpyBIKHA2DUKfymI2f-A0dBcodCYUA=
 CNN,http://girlz.cdn.newschat.tv/hls/cnn_live/index.m3u8
 CNN International,http://girlz.cdn.newschat.tv/hls/cnni_live/index.m3u8
 HLN,http://girlz.cdn.newschat.tv/hls/hln_live/index.m3u8
