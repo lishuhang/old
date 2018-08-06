@@ -92,15 +92,13 @@ CGTN,http://live.cgtn.com/manifest.m3u8
 CGTN,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 BTV News,http://ivi.bupt.edu.cn/hls/btv9.m3u8
 Beijing Time,http://play5.kandian.360.cn/live_news_1500/main_output_m1/index.m3u8
-Guangzhou News,http://lss2.gztv.com/streaming/gzbn_new/index.m3u8
+Guangzhou News,http://23436.liveplay.myqcloud.com/live/23436_6f91587d4f7311e892905cb9018cf0d4.m3u8
 Knews24,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226041/index.m3u8
 Knews24,http://hls.live.kksmg.com/live/live24h/playlist.m3u8?se=kankan&ct=2&_cp=1
 CBN,http://w1.livecdn.yicai.com/hls/live/CBN_ld/live.m3u8
 CBN,http://m1.livecdn.yicai.com/hls/live/CBN_ld/live.m3u8
 CBN,http://183.207.249.7/PLTV/3/224/3221225573/index.m3u8
-TVB iNews,http://edge20-1.edgeware.hk4.tvb.com/session/d33b8628-75ab-11e8-8f38-0050569023d7/qh33qv/newslive/smil:mobilehd_inews.smil/playlist.m3u8
 TVB Finance,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
-TVB Finance,http://edge28-1.edgeware.hk4.tvb.com/session/f644f9ba-75ab-11e8-af29-005056b12cf7/qh33qv/newslive/smil:mobilehd_finance.smil/playlist.m3u8
 TVB Entertainment,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 Yaocai Finance,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 Cable News,http://ottproxy1.mott.tv/livehls/MOB-SCC/index.m3u8?token=128c23e3733abd26b35145f59b2bf86f94e726a5ceeaa96ea0139b483cb2ae928efd5679243064b8904e1fcd84b2cddb&sessionID=suBYLNfg49z4
