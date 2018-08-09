@@ -95,15 +95,19 @@ Beijing Time,http://play5.kandian.360.cn/live_news_1500/main_output_m1/index.m3u
 Guangzhou News,http://23436.liveplay.myqcloud.com/live/23436_6f91587d4f7311e892905cb9018cf0d4.m3u8
 Knews24,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226041/index.m3u8
 Knews24,http://hls.live.kksmg.com/live/live24h/playlist.m3u8?se=kankan&ct=2&_cp=1
+STV news,http://aliyunkknews-live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M_keyM_/live/xwzhhd/700000/d1.m3u8
+CBN,http://aliyunkknews-live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M_keyM_/live/dycj/700000/d1.m3u8
 CBN,http://w1.livecdn.yicai.com/hls/live/CBN_ld/live.m3u8
 CBN,http://m1.livecdn.yicai.com/hls/live/CBN_ld/live.m3u8
 CBN,http://183.207.249.7/PLTV/3/224/3221225573/index.m3u8
 TVB Finance,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
 TVB Entertainment,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
-Yaocai Finance,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+Bright Smart Finance,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 Cable News,http://ottproxy1.mott.tv/livehls/MOB-SCC/index.m3u8?token=128c23e3733abd26b35145f59b2bf86f94e726a5ceeaa96ea0139b483cb2ae928efd5679243064b8904e1fcd84b2cddb&sessionID=suBYLNfg49z4
-Phoenix Info,http://223.110.245.139/PLTV/3/224/3221226980/index.m3u8
-Phoenix Info,http://183.251.61.198/PLTV/88888888/224/3221225901/index.m3u8
+Cable Finance,http://ottproxy1.mott.tv/livehls/MOB-NGW/03.m3u8?token=128c23e3733abd26b35145f59b2bf86f94e726a5ceeaa96ea0139b483cb2ae928efd5679243064b8904e1fcd84b2cddb&sessionID=ttrQ5Q1Yh9ce
+Phoenix TV Infonews,http://live.fengshows.com/live/PIN_500k/index.m3u8?ts=&token=
+Phoenix TV Infonews,http://223.110.245.139/PLTV/3/224/3221226980/index.m3u8
+Phoenix TV Infonews,http://183.251.61.198/PLTV/88888888/224/3221225901/index.m3u8
 RTHK 31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 RTHK 32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
 TDM Info,http://live1.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
@@ -212,8 +216,10 @@ Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 Adult Swim,http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
 
 [Hong Kong]
-Phoenix TV,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
-Phoenix Hong Kong,http://223.82.250.72/ysten-bussiness/live/fhhongkong/1.m3u8
+Phoenix TV Chinese,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
+Phoenix TV Chinese,http://live.fengshows.com/live/PCC_500k/index.m3u8?ts=&token=
+Phoenix TV Hong Kong,http://live.fengshows.com/live/PHK_500k/index.m3u8?ts=&token=
+Phoenix TV Hong Kong,http://223.82.250.72/ysten-bussiness/live/fhhongkong/1.m3u8
 TVB Jade,http://pulllive-al.wasu.cn/live/d97e0342e848dbc54a25a99d303b556d.m3u8
 TVB Jade,http://qqpull.inke.cn/live/1529495855458960.m3u8
 TVB Pearl,http://pulllive-al.wasu.cn/live/487040cf86d8b52e24e3b593d2cf61f8.m3u8
