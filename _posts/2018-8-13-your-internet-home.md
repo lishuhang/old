@@ -191,5 +191,5 @@ categories: 历史
 
 ---
 
-文章未注明来源的图片全部截取自 [](https://web.archive.org)
+文章未注明来源的图片全部截取自 (https://web.archive.org)
 
