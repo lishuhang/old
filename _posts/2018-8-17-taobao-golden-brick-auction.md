@@ -5,7 +5,7 @@ comments: true
 categories: 热点
 ---
 
-![](http://ww1.sinaimg.cn/large/4b91f9d5gy1fu84gnea89j20jg0b44h9.jpg)
+![](http://ww1.sinaimg.cn/large/4b91f9d5gy1fuczgej7mvj20io0a8gvp.jpg)
 
 本文首发于**航通社**，原创文章未经授权请勿转载。航通社 **(ID:lifeissohappy)** 微博 **@lishuhang**
 
