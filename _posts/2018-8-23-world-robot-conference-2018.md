@@ -5,7 +5,7 @@ comments: true
 categories: 未来
 ---
 
-![](http://ww1.sinaimg.cn/large/4b91f9d5gy1fuiwm0jb48j20uo0hg4qp.jpg)
+![](http://ww1.sinaimg.cn/large/4b91f9d5gy1fuixvohnmuj20j70c7k42.jpg)
 
 本文首发于**航通社**，原创文章未经授权请勿转载。**航通社 (ID:lifeissohappy)** **微博 @lishuhang**
 
