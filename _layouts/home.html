@@ -10,18 +10,17 @@ li {display:block;}
 
   <div>&nbsp;</div>
 
-  <ul class="post-list">
+ <!-- <ul class="post-list">-->
     {% for post in site.posts %}
-      <li>
+      <!--  <li>-->
 
-	<h2><a class="post-link" href="{{ post.url | relative_url }}" title="{{ post.title }}"><img src="http://ww1.sinaimg.cn/large/4b91f9d5gy1fukp23m39pg20jg02swec.gif" alt="{{ post.title | escape }}" /></a></h2>
-        <!--<h2><a class="post-link" href="{{ post.url | relative_url }}" title="{{ post.title }}">{{ post.title | escape }}</a></h2>-->
+	<h2><a class="post-link" href="{{ post.url | relative_url }}" title="{{ post.title }}">{{ post.title | escape }}</a></h2>
         {% assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <span>{{ post.excerpt | markdownify | truncatewords: 30 }}</span>
 
-      </li>
+       <!-- </li>-->
     {% endfor %}
-  </ul>
+ <!--   </ul>
 
 </div>
