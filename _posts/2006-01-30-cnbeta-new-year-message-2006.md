@@ -1,8 +1,8 @@
 ---
 layout: post
-title: CB 2006 春节献辞
+title: cnBeta 2006 春节献辞
 comments: true
-categories: 传媒
+categories: 七日谈
 ---
 **尊敬的cnBeta网友:**
 

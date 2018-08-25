@@ -1,7 +1,7 @@
 ---
 layout: post
 title: cnBeta 2008年新年贺词 - 仰望星空
-categories: 传媒
+categories: 七日谈
 ---
 在这个夜晚，请你抬起头，仰望星空。
 
