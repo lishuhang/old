@@ -29,7 +29,9 @@ baseurl: ""
 
 permalink: /:year/:month/:day/:title:output_ext
 
-paginate: 10
+gems: [jekyll-paginate,pager,pagination]   #添加插件
+paginate: 10   #开启分页
+paginate_path: "blog/page:num"  #首页分页
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
