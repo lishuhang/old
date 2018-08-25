@@ -3,7 +3,7 @@ layout: post
 title: Firefox OS来了，但它没什么好说的
 categories: 数码
 ---
-![Firefox OS来了，但它没什么好说的](https://img.huxiucdn.com/portal/201302/25/1832116pwqwkfcwqo6zpk6.jpg?imageView2/1/w/887/h/500/|imageMogr2/strip/interlace/1/quality/85/format/jpg)
+![Firefox OS来了，但它没什么好说的](https://img.huxiucdn.com/portal/201302/25/1832116pwqwkfcwqo6zpk6.jpg)
 
 巴展第一天，同诺基亚新机等一同占据头条位置的就是Firefox OS的发布，但我真心觉得这不是什么重大新闻。
 
