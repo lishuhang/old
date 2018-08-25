@@ -8,8 +8,6 @@ layout: default
 
 {{ content }}
 
-<div>&nbsp;</div>
-
 {% for post in site.posts %}
     
 <h2 class="post-title" itemprop="name headline"><a href="{{ post.url | relative_url }}" title="{{ post.title }}">{{ post.title | escape }}</a></h2>
