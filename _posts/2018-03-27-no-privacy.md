@@ -3,7 +3,7 @@ layout: post
 title: “我做人清清白白的，所以隐私什么的无所谓啦”
 categories: 热点
 ---
-![](https://inews.gtimg.com/newsapp_bt/0/3118624177/641)
+![](http://ww1.sinaimg.cn/large/4b91f9d5gy1fum65bjah9j20ht0bmqbm.jpg)
 
 本文首发于航通社 (ID:lifeissohappy) 微博：@lishuhang  原创文章，未经授权，请勿转载
 

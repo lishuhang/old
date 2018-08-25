@@ -3,7 +3,7 @@ layout: post
 title: 小蓝重回北京，但可能还没到打价格战的时候
 categories: 热点
 ---
-![img](https://inews.gtimg.com/newsapp_bt/0/3096915933/641)
+![img](http://ww1.sinaimg.cn/large/4b91f9d5gy1fum62vhi22j20ht0bk7kp.jpg)
 
 这两天在北京多地，上下班的打工一族可能会发现，被滴滴接管的小蓝单车高调回到了市场上。例如上面的照片就是在望京 SOHO 楼底和附近地铁口拍到的，一列排到整整齐齐的小蓝单车旁边，有工作人员用大喇叭对来往行人喊话说“最好骑的共享单车小蓝单车又回来了”。
 

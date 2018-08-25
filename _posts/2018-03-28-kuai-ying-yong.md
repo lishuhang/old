@@ -3,7 +3,7 @@ layout: post
 title: 10家国产手机厂商推出“快应用”，它们怎么还不死心？
 categories: 数码
 ---
-![本文为百家号约稿](https://inews.gtimg.com/newsapp_bt/0/3127679832/641)
+![本文为百家号约稿](http://ww1.sinaimg.cn/large/4b91f9d5gy1fum63xci1fj20ht0dq49z.jpg)
 
 本文为百家号约稿，航通社 (ID:lifeissohappy) 微博：@lishuhang，原创文章，未经授权，请勿转载
 

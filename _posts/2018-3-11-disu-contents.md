@@ -7,7 +7,7 @@ date: 2018-03-11 12:03:01
 categories: 传媒
 ---
 
-![img](https://inews.gtimg.com/newsapp_bt/0/3012847604/641) 
+![img](http://ww1.sinaimg.cn/large/4b91f9d5gy1fum65tzbxlj20ht0a1juj.jpg) 
 
 **本文首发于微信公众号：**[**航通社 (ID:lifeissohappy)**](https://mp.weixin.qq.com/s/zQ4pP89gTCKTlrNZQED1Yg)**，微博：@lishuhang。原创文章，未经授权，请勿转载**
 
