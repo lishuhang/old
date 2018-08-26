@@ -6,7 +6,6 @@ comments: true
 date: 2016-03-15 09:03:34
 categories: 传媒
 ---
-[][1]
 
 ![img](https://static.technode.com/wp-content/blogs.dir/18/files/2016/03/MaslowsHierarchyOfNeeds-1024x724.jpg) 
 
