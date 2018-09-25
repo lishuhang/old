@@ -3,8 +3,6 @@ layout: post
 title: 摘编微信公众号的《青年文摘》们
 categories: 传媒
 ---
-微信公众号：航通社 (ID:lifeissohappy)  微博：@lishuhang  原创文章，未经授权，请勿转载
-
 ![](http://ww1.sinaimg.cn/large/4b91f9d5gy1fun8ztmxmhj20lc0altiu.jpg)
 
 我有收集飞机刊物的习惯，基本上每次都拿到的是《China Daily》和《环球时报》，但去年有一次坐飞机，散发的读物是一本《青年文摘》。

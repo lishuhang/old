@@ -3,6 +3,8 @@ layout: post
 title: cnBeta 2011新年贺词
 categories: 七日谈
 ---
+![](https://ws1.sinaimg.cn/large/4b91f9d5gy1fvlz57qh2kj20zk0nnb29.jpg)
+
 各位亲爱的访客朋友：
 
 很高兴又是一年过去了，我们还能在老地方和大家相聚。但是，可能比起以前，会有一点点改变。这一年来，cnBeta一如既往地守护着我们和大家之间的约定，继续和大家一同见证无比吵闹喧嚣的业界百态。

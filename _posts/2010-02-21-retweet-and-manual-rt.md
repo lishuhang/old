@@ -3,6 +3,8 @@ layout: post
 title: 为什么官方RT无法取代人肉RT
 categories: 传媒
 ---
+![](https://ws1.sinaimg.cn/large/4b91f9d5gy1fvlz6u2j2hj20zk0k0axh.jpg)
+
 本文不在可能吧发表，因此也就不打算讲究排版配图之类，只是把意思说出来即可。
 
 前一段时间，包括 @zuola @lemoned @jason5ng32 等弟兄在内反对人肉RT造成的各种混乱局面，提倡**不用人肉RT而用官方RT**。今天Jason还[写到了可能吧](http://www.kenengba.com/post/2749.html)，我当然也看了。
