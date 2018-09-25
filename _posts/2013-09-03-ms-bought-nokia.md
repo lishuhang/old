@@ -3,6 +3,8 @@ layout: post
 title: 木马的胜利！微软终于收购诺基亚产品和服务部门
 categories: 数码
 ---
+![](https://ws1.sinaimg.cn/large/4b91f9d5gy1fvlytmyargj20qo0hnng2.jpg)
+
 这是一个会让全球媒体陷入疯狂的消息，可能也是大家“期待已久”的消息。  **微软今天宣布收购诺基亚设备和服务部门，** 本次收购价格 37.9 亿欧元，此外还有 16.5 亿欧元的专利。
 
 这意味着 Windows Phone 系统将整合这一生态环境中最大的硬件支持商。根据 TechCrunch 的测算，诺基亚设备占据所有 WP 设备的 90% 比重。

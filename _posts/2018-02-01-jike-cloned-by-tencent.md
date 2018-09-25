@@ -3,8 +3,6 @@ layout: post
 title: 长期没对手的即刻被腾讯借鉴了，然后呢？
 categories: 传媒
 ---
-## 长期没对手的即刻被腾讯借鉴了，然后呢？
-
 ![img](http://ww1.sinaimg.cn/large/4b91f9d5gy1funbnsj1kjj20fa0bn43n.jpg)
 
 今天上午，[腾讯悄然推出了一款能订阅个性化主题的资讯阅读产品“立知”](http://tech.sina.com.cn/i/2018-02-01/doc-ifyreyvz8157775.shtml)。眼尖的人一看就会想起它跟另一款阅读类产品“即刻”之间巨大的相似性。
