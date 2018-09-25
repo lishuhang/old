@@ -3,12 +3,17 @@ layout: default
 ---
 <style>
 .main-content img {min-width:100%;}
+.post-excerpt {display:inline-block; position:relative; float:right; max-width: 10em;}
 </style>
 <div>
 
 {{ content }}
 
 {% for post in site.posts %}
+
+<a href="{{ post.url | relative_url }}" title="{{ post.title }}">
+<span class="post-excerpt">{{ post.excerpt | markdownify | truncatewords: 30 }}</span>
+</a>
     
 <h2 class="post-title" itemprop="name headline"><a href="{{ post.url | relative_url }}" title="{{ post.title }}">{{ post.title | escape }}</a></h2>
 	
@@ -28,10 +33,6 @@ layout: default
 <span class="post-meta">{{ post.date | date: date_format }}</span>
 
 <div>&nbsp;</div>
-
-<a href="{{ post.url | relative_url }}" title="{{ post.title }}">
-<span>{{ post.excerpt | markdownify | truncatewords: 30 }}</span>
-</a>
 
         
 {% endfor %}
