@@ -3,6 +3,8 @@ layout: post
 title: 我们欢迎你说话
 categories: 七日谈
 ---
+![](https://ws1.sinaimg.cn/large/4b91f9d5gy1fvlzm7dbt1j20zk0pze81.jpg)
+
 我们应该怎么办呢？有两种选择，要么什么文字也不发表，要么就把所有人的观点都尽可能的表达出来。我们选择的是后者。
 
 cnBeta的历史上出过不少观点猛烈碰撞，相互对垒的文章。曾经创纪录的《驳＜驳《驳＜驳＞》＞》，出现在iPhone刚刚上市不久，作为一个记录，留在Wikipedia的cnBeta词条里。

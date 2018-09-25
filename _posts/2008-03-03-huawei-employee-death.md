@@ -3,6 +3,8 @@ layout: post
 title: 死与新生
 categories: 七日谈
 ---
+![](https://ws1.sinaimg.cn/large/4b91f9d5gy1fvlzn2l66lj20zk0npq9v.jpg)
+
 从楼上向下俯视。水泥地上一个身体。以极不妥贴的姿势躺着，脸朝下。  
 
 警车。警戒线。来回奔走的人们。  
