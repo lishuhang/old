@@ -3,6 +3,7 @@ layout: post
 title: 奥委会的尴尬
 categories: 七日谈
 ---
+
 本周[斯皮尔伯格宣布辞任奥运开幕式艺术顾问一职](http://news.china.com/zh_cn/domestic/945/20080214/14671194.html)，整个网络一下子炸了锅。个人认为我们抵制一下斯氏电影还是有正当理由的，而且我们抵制的办法最好是狂下载他的盗版电影，这样我们基本是零成本；他要是以后看着开幕式心痒痒想盗版，只有自己扛着dv整一个，而且还得他自己掏钱。本周我们想谈论的话题也和奥运有关系。
 
 在雅典的时候，罗格大概想不到短短四年的时间，世界的变化会这么快，马上奥运会就要接触到一个根本不熟悉的全新领域，那就是网络。北京奥运会，很大程度上是因为中国广大网民的努力，产生了很多奥运史上和IT有关的第一：[第一个奥运会互联网官方合作伙伴搜狐](http://www.cnbeta.com/article.php?sid=33682)，[第一个官方新媒体转播商央视国际](http://www.cnbeta.com/article.php?sid=46033)，[第一次规范了网络媒体报道奥运会的权益](http://www.cnbeta.com/article.php?sid=37097)，还有本周[第一次对运动员博客有了界定](http://www.cnbeta.com/article.php?sid=49228)。就连中国人自己的企业第一次当上Top赞助商，那也是和电脑有关，虽说[开完北京奥运会联想就不干了](http://www.cnbeta.com/article.php?sid=45214)，不过[据传接手的是另一个华人产业Acer](http://www.cnbeta.com/article.php?sid=44669)，也算是肥水不流外人田了。

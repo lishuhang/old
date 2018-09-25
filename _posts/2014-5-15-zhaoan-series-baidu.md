@@ -1,14 +1,10 @@
 ---
 layout: post
 title: 【专题】被“招安”的创业公司，你们过得还好吗？（二、百度篇）
-published: true
-author: admin
-comments: true
-date: 2014-05-15 08:05:26
 categories: 历史
 ---
 
-[![640_baidu-headquarters](https://static.technode.com/files/2014/05/640_baidu-headquarters.jpg)](https://static.technode.com/files/2014/05/640_baidu-headquarters.jpg)
+![](https://ws1.sinaimg.cn/large/4b91f9d5ly1fvlu5taeioj20hs0buqbz.jpg)
 
 动点科技“招安”系列报道今日继续。我们来说一说百度旗下的几家创业公司。
 

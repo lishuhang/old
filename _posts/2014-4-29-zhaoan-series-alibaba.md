@@ -1,13 +1,10 @@
 ---
 layout: post
 title: 【专题】被“招安”的创业公司，你们过得还好吗？（一、阿里篇）
-published: true
-comments: true
-date: 2014-04-29 07:04:39
 categories: 历史
 ---
 
-[![alibaba](https://static.technode.com/files/2014/04/alibaba.jpg)](https://static.technode.com/files/2014/04/alibaba.jpg)
+![](https://ws1.sinaimg.cn/large/4b91f9d5ly1fvlu718ne4j20qe0eutwr.jpg)
 
 从本周开始，我们将推出一个新的系列。我们想聚焦那些被大公司收购，控股或者入股并拥有话语权的创业公司。为方便起见，我们用“招安”来归纳上述情形。
 
