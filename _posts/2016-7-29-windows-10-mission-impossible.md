@@ -1,13 +1,10 @@
 ---
 layout: post
 title: 不可能的任务：Windows 10 走向 10 亿装机量之路
-published: true
-comments: true
-date: 2016-07-29 07:07:20
 categories: 数码
 ---
 
-![img](https://pic2.zhimg.com/8b7a157691ebfc2ff3f71666f2f47e9f_1200x500.jpg) 
+![](https://ws1.sinaimg.cn/large/4b91f9d5ly1fvlugf60w9j20u30h11kx.jpg)
 
 今天，7月29日，Windows 10 免费升级计划正式到期。今后用户要升级，只能购买授权，家庭版888元或120美元，专业版1799元或200美元，家庭版升级专业版880元。  
 
