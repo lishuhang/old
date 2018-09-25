@@ -3,6 +3,8 @@ layout: post
 title: 面对那么单纯的他们
 categories: 七日谈
 ---
+![](https://ws1.sinaimg.cn/large/4b91f9d5gy1fvlzfqjteij20zk0k0e82.jpg)
+
 有一位mm的电话本里保存着最近几个朋友和家人从QQ发给她的号码。在一堆很正常的号码中间，有这么一条：
 
 > 手机打:l而舞久铃溜73酒ll舞 音乐后有我想说的

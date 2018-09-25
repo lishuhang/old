@@ -3,6 +3,8 @@ layout: post
 title: 重画起跑线是一种悲壮的抗争
 categories: 七日谈
 ---
+![](https://ws1.sinaimg.cn/large/4b91f9d5gy1fvlzkjqoetj20go0ax75c.jpg)
+
 一张嫩黄色的笑脸让整个世界的Web开发者大吃了一惊。IE8 Beta1顺利通过Acid2测试，这在我看来，是一个足以影响以致改变互联网走向的事件。
 
 IE再一次把自己和其他竞争对手拉到同一起跑线上，凭借肌肉发达的钢筋铁骨，和运载火箭一般的速度，为新一轮的浏览器赛跑热身。
