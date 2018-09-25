@@ -4,6 +4,8 @@ title: 也说新浪之凶猛
 categories: 传媒
 ---
 
+![](https://ws1.sinaimg.cn/large/4b91f9d5ly1fvluous1coj20ha0acgno.jpg)
+
 我前两天刚参加完[谷奥两周年聚会](http://www.cnbeta.com/articles/140937.htm)回来，今天晚上刚刚从[百度爱好者五周年聚会](http://www.baiduer.com.cn/2011-05/23386.html)回来，稍早之前还帮着说了一下[AdSense国内部分帐号被封号的事情](http://www.cnbeta.com/articles/143197.htm)。我感觉自己身份挺复杂的，即是撰稿方，又是用稿方。我多少通过在独立博客的经历，得到了一点实惠，于是在可能伤害到博主们的场合，就拼尽全力来维持和博主们的关系。换句话说，CB遇到博客维权，都是我来擦屁股。
 
 这两天 [@gokeeper](http://twitter.com/gokeeper) [@musixboy](http://twitter.com/musiXboy) 在[和新浪科技的一个外电编辑吵得不可开交](http://b.gkp.cc/2011/06/04/guao-and-sex-lang-similar-article/)。其实说老实话，光[就交涉的环节](http://weibo.com/1617475747/eBuoCkSApXA)，我得各打五十大板——谷奥这厢一直“性浪”叫个不停，人家回嘴说你丫就是一SB，两方都是性情中人。

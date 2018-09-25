@@ -6,11 +6,7 @@ date: 2018-01-05 01:01:31
 categories: 未来
 ---
 
-![](https://pic4.zhimg.com/80/v2-8e551a746e024941ac9bbbf58fc8be99_hd.jpg)
-
-**本文首发于微信公众号：航通社（ID:lifeissohappy)|微博：@lishuhang**
-
-**原创文章未经许可请勿转载**
+![](https://ws1.sinaimg.cn/large/4b91f9d5ly1fvlv1w5radj20p10gytl1.jpg)
 
 进入新年，央视节目《国家宝藏》在官方微博推出了一个AR扫描海报的互动营销，可以让图片中的文物“动起来”。不过，它实现这个效果并没花很大的力气，只用了一张图片和一段视频。
 
