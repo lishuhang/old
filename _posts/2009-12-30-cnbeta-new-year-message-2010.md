@@ -3,6 +3,8 @@ layout: post
 title: cnBeta 2010年新年贺辞
 categories: 七日谈
 ---
+![](https://ws1.sinaimg.cn/large/4b91f9d5ly1fvlvbvaj6bj20zk0nphdt.jpg)
+
 **送走冬日的暖阳，迎来点点星光。这是2009年最后的深夜。喧闹的都市，正慢慢陷入沉静和安详。**
 
 **我在网络的这一头默默等待。网络的那一头，连着你，我们的访客朋友。在这里，我们拥有一个共同的名字——匿名人士。**

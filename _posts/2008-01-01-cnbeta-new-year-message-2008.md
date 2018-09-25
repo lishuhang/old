@@ -3,6 +3,8 @@ layout: post
 title: cnBeta 2008年新年贺词 - 仰望星空
 categories: 七日谈
 ---
+![](https://ws1.sinaimg.cn/large/4b91f9d5ly1fvlv8a5i0yj20zk0jz4qq.jpg)
+
 在这个夜晚，请你抬起头，仰望星空。
 
 星空因为有繁星的参与而绚丽多彩。我们相信，在屏幕前的你，就是闪耀在资讯夜空里的一颗星。

@@ -3,6 +3,8 @@ layout: post
 title: cnBeta 2009新年献词
 categories: 七日谈
 ---
+![](https://ws1.sinaimg.cn/large/4b91f9d5ly1fvlvahh7g6j20zk0oeb29.jpg)
+
 **各位亲爱的署名的CB访客和匿名人士:**
 
 在又一次刷屏的旅程中, 我们迎来了2009年.
