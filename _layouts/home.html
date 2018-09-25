@@ -29,7 +29,10 @@ layout: default
 
 <div>&nbsp;</div>
 
+<a href="{{ post.url | relative_url }}" title="{{ post.title }}">
 <span>{{ post.excerpt | markdownify | truncatewords: 30 }}</span>
+</a>
+
         
 {% endfor %}
 
