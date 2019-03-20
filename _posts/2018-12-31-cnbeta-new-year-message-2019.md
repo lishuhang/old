@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: cnBeta
+categories: 七日谈
 title: 2019 年新年献词：困难年代的生存指南
 ---
 
