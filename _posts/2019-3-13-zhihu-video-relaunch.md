@@ -4,8 +4,6 @@ categories: 传媒
 title: 抖音快手B站微博之外，知乎视频要怎么做得不一样
 ---
 
-本文首发于**航通社**，原创文章未经授权禁止转载。航通社 微信：**lifeissohappy** 微博：**@航通社**
-
 ![](http://ww1.sinaimg.cn/large/4b91f9d5gy1g18zy5b35rj20u00h5ahh.jpg)
 
 > 航通社作者 书航 3 月13 日发于北京
