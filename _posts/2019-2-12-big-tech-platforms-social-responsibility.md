@@ -4,15 +4,11 @@ categories: 传媒
 title: 要平台自律？要用户自觉？其实就是呼吁加强监管
 ---
 
-
-
 ![](http://ww1.sinaimg.cn/large/4b91f9d5gy1g0422dlp63j20zk0nph59.jpg)
 
 航通社作者 书航 2 月 12 日发于万象
 
-对于“新闻实验室”2月12日刊登的《[主流数字平台真的是用户主动选择的结果吗？](https://mp.weixin.qq.com/s/35ri-yRFb6yUes0bQP3aoA)》一文，我有一些不同意见。先是在评论区直接打出来很多字，后来觉得还是整理成文比较好。
-
-文章认为，在承载了大部分用户的日常生活需求之后，平台本身已经可以被视作是一种基础设施。持有这些平台的公司应该担负起一定的社会责任，而非仅遵从商业逻辑为自己牟利。
+[﻿@方可成﻿](https://matters.news/@disincurable) 老师的“新闻实验室”2月12日刊登一篇《[主流数字平台真的是用户主动选择的结果吗？](https://mp.weixin.qq.com/s/35ri-yRFb6yUes0bQP3aoA)》。文章认为，在承载了大部分用户的日常生活需求之后，平台本身已经可以被视作是一种基础设施。持有这些平台的公司应该担负起一定的社会责任，而非仅遵从商业逻辑为自己牟利。
 
 而我认为，在不依靠立法规管的现有条件下，提出向主流数字平台追责是不切实际的，甚至无异于“与虎谋皮”。
 
@@ -50,19 +46,17 @@ title: 要平台自律？要用户自觉？其实就是呼吁加强监管
 
 如果真的是用户主动选择，并且用户可以通过自身选择导致强势平台竞争力削弱，那么他们理应有组织的逃离平台，并且这种努力可以成功。**实际上，没有人能真正做到逃离 Facebook 或者微信。**
 
-Gizmodo 记者 Kashmir Hill 尝试拒绝采用 Facebook 旗下任何产品过日子，她试图使用 Mastodon 作为社交网络替代品，这是一个开源的、去中心化、类似 Twitter 的社交网络。“老实说，我觉得建立另一个在线社交网络令人筋疲力尽。所以在签到几次之后，我就放弃了。网络效应是真实而强大的。”
+Gizmodo 记者 Kashmir Hill [尝试拒绝采用 Facebook 旗下任何产品过日子](https://gizmodo.com/i-cut-facebook-out-of-my-life-surprisingly-i-missed-i-1830565456)，她试图使用 Mastodon 作为社交网络替代品，这是一个开源的、去中心化、类似 Twitter 的社交网络。“老实说，我觉得建立另一个在线社交网络令人筋疲力尽。所以在签到几次之后，我就放弃了。网络效应是真实而强大的。”
 
-（ [https://gizmodo.com/i-cut-facebook-out-of-my-life-surprisingly-i-missed-i-1830565456](https://gizmodo.com/i-cut-facebook-out-of-my-life-surprisingly-i-missed-i-1830565456) ）
+她并同时引用 [Motherboard 记者 Sarah Jeong 的总结](https://motherboard.vice.com/en_us/article/783akg/mastodon-is-like-twitter-without-nazis-so-why-are-we-not-using-it)：
 
-她并同时引用 Motherboard 记者 Sarah Jeong 的总结：“你不用 Mastodon 是因为你的朋友不用 Mastodon。你的朋友不用 Mastodon 是因为你不用 Mastodon。如果我没有答应编辑写一篇关于它的文章，我也不用 Mastodon。”
-
-（ [https://motherboard.vice.com/en_us/article/783akg/mastodon-is-like-twitter-without-nazis-so-why-are-we-not-using-it](https://motherboard.vice.com/en_us/article/783akg/mastodon-is-like-twitter-without-nazis-so-why-are-we-not-using-it) ）
+> “你不用 Mastodon 是因为你的朋友不用 Mastodon。你的朋友不用 Mastodon 是因为你不用 Mastodon。如果我没有答应编辑写一篇关于它的文章，我也不用 Mastodon。”
 
 用户体系以及在此基础上形成的交互，才是平台之间难以轻易切换的真正壁垒所在。而**提供公共服务的质量，从来就不是决定平台生死的主要因素**。就这一点而言，互联网公司和传统的民营基础设施并无不同。
 
 ## 对三个辩护理由的“反驳的反驳”
 
-该文列出常见的 3 个为平台商业化运作辩护的理由，并逐一反驳。而我会在简要回顾该文论点的同时，在下面给出我对“反驳的反驳”。
+《[主流数字平台真的是用户主动选择的结果吗？](https://mp.weixin.qq.com/s/35ri-yRFb6yUes0bQP3aoA)》列出常见的 3 个为平台商业化运作辩护的理由，并逐一反驳。而我会在简要回顾该文论点的同时，在下面给出我对“反驳的反驳”。
 
 #### 辩护理由1：平台为自己牟利无可厚非，因为平台的盈利部分是用来维持平台自身的正常运转。如果过度要求公共性，企业无法在自顾不暇的情况下为大众提供优质服务。
 
