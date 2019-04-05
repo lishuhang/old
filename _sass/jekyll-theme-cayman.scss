@@ -1,8 +1,8 @@
 @import "normalize";
 @import "rouge-github";
 @import "variables";
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans);
-@import url(https://fonts.googleapis.com/css?family=Noto+Serif);
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans|Noto+Serif|Bitter|Open+Sans'); // custom font
+
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
     @content;
