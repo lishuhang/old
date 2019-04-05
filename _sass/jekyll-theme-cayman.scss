@@ -121,10 +121,13 @@ a {
 }
 
 .page-header img {
-width:100px; display:inline; padding-right:1rem;
+height:60px;
+display:inline;
+padding-right:1rem;
 
   @include small {
     display:block;
+    height:100px;
   }
 }
 
