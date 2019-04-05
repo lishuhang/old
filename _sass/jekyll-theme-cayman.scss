@@ -122,6 +122,10 @@ a {
 
 .page-header img {
 max-width:60px; display:inline; padding-right:1rem;
+
+  @include small {
+    display:block;
+  }
 }
 
 .project-name {
