@@ -200,6 +200,12 @@ padding-right:1rem;
 .post-excerpt img {
 width: 175px;
 height: 100px;
+
+  @include small {
+    width: 140px;
+    height: 80px;
+  }
+
 }
 
   h1,
