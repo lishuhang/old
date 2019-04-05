@@ -67,7 +67,7 @@ a {
   color: rgba(255, 255, 255, 0.7);
   background-color: rgba(255, 255, 255, 0.08);
   border: solid 1px rgba(255, 255, 255, 0);
-  border-radius: 20px;
+  border-radius: 0.5rem;
   transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 
   &:hover {
@@ -82,18 +82,17 @@ a {
   }
 
   @include large {
-    padding: 0.75rem 1rem;
+    padding: 0.25rem 0.75rem;
   }
 
   @include medium {
-    padding: 0.6rem 0.9rem;
+    padding: 0.25rem 0.75rem;
     font-size: 0.9rem;
   }
 
   @include small {
     display: block;
-    width: 100%;
-    padding: 0.75rem;
+    padding: 0.25rem 0.75rem
     font-size: 0.9rem;
 
     + .btn {
