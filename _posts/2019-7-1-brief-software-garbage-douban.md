@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: Brief
-title: #htsbrief 2019.7.1 | Software industry, Garbage classification, Douban FM
+title: 2019.7.1 - Software industry, Garbage classification, Douban FM
 ---
 
 ![](http://ww1.sinaimg.cn/large/4b91f9d5ly1g4k5lxrqx2j212w0m8my2.jpg)

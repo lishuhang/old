@@ -1,6 +1,6 @@
 ---
 categories: Brief
-title: ##htsbrief# 2019.7.2 | ETC / ByteDance / MINISO / Baidu Self-driving Cars
+title: 2019.7.2 - ETC / ByteDance / MINISO / Baidu Self-driving Cars
 layout: post
 ---
 
