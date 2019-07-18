@@ -50,11 +50,11 @@ layout:
 
 其中，《Kanon》给观众强势安利了鲷鱼烧这种小吃，后来我专门吃过一回，感觉跟《哆啦 A 梦》的铜锣烧一个味儿：
 
-![1563464608702](C:\Users\James\AppData\Roaming\Typora\typora-user-images\1563464608702.png)
+![](http://ww1.sinaimg.cn/large/4b91f9d5ly1g54foyx3hqj212w0m8nb5.jpg)
 
 《CLANNAD》则因为男主给太多女孩的好感度点到满，“后宫”们终于要求他做出选择，于是有了第 18 集中，男主用简简单单的一个动作，同时向四个少女群发好人卡的经典镜头，史称“CL18”，看得不少男同胞扬眉吐气：
 
-![1563464649271](C:\Users\James\AppData\Roaming\Typora\typora-user-images\1563464649271.png)
+![](http://ww1.sinaimg.cn/large/4b91f9d5ly1g54fooay1rj212w0m87ej.jpg)
 
 后来，京阿尼又陆续出了大热的《轻音少女》（K-ON!），校园悬疑题材的《冰果》，以及搞笑无厘头的《日常》。
 
