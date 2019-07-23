@@ -1,7 +1,7 @@
 ---
 categories: 热点
 title: “我们所度过的平凡的每一天，也许就是连续发生的奇迹”
-layout: 
+layout: post
 ---
 
 ![](http://ww1.sinaimg.cn/large/4b91f9d5ly1g54ffcbe7aj212w0m8mz3.jpg)
