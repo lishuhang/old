@@ -65,17 +65,17 @@ a {
 
 .btn {
   display: inline-block;
-  color: rgba(255, 255, 255, 0.7);
-  background-color: rgba(255, 255, 255, 0.08);
-  border: solid 1px rgba(255, 255, 255, 0);
-  border-radius: 0.5rem;
+  color: $header-heading-color;
+  background-color: none;
+  border: solid 1px none;
+  border-radius: 1rem;
   transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 
   &:hover {
-    color: rgba(255, 255, 255, 0.8);
+    color: #FFF;
     text-decoration: none;
-    background-color: rgba(255, 255, 255, 0.2);
-    border: solid 1px rgba(255, 255, 255, 0.3);
+    background-color: #347CF8;
+    border: solid 1px #1747BE;
   }
 
   + .btn {
@@ -106,7 +106,8 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  border-bottom: 4px solid linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  border-bottom: 4px solid $header-heading-color;
+  border-bottom-color: linear-gradient(120deg, $header-bg-color-secondary, $header-heading-color);
 
   @include large {
     padding: 1.5rem 2.5rem;
