@@ -67,15 +67,15 @@ a {
   display: inline-block;
   color: $header-heading-color;
   background-color: none;
-  border: solid 1px none;
-  border-radius: 1rem;
+  border: none;
+  border-radius: 10px;
   transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 
   &:hover {
     color: #FFF;
     text-decoration: none;
     background-color: #347CF8;
-    border: solid 1px #1747BE;
+    border: none;
   }
 
   + .btn {
@@ -106,8 +106,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  border-bottom: 4px solid $header-heading-color;
-  border-bottom-color: linear-gradient(120deg, $header-bg-color-secondary, $header-heading-color);
+  border-bottom: 4px solid #9ABEFC;
 
   @include large {
     padding: 1.5rem 2.5rem;
