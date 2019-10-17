@@ -4,11 +4,11 @@ layout: post
 title: 摄像眼镜：7 年之后又 7 年
 ---
 
-本文是[航通社增值会员通讯服务“航通社的朋友们”](https://zhuanlan.zhihu.com/p/78975585)专享内容，向公众号读者提供全文试读。
-
 ![image.png](https://ws1.sinaimg.cn/large/4b91f9d5ly1g812m492v7j20u00iz7wh.jpg)
 
 题图：Spectacles 官网
+
+本文是[航通社增值会员通讯服务“航通社的朋友们”](https://zhuanlan.zhihu.com/p/78975585)专享内容，向公众号读者提供全文试读。
 
 *书航 8 月 20 日发于北京*
 
