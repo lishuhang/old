@@ -4,7 +4,9 @@ layout: post
 title: 摄像眼镜：7 年之后又 7 年
 ---
 
-![image.png](https://ws1.sinaimg.cn/large/4b91f9d5ly1g812m492v7j20u00iz7wh.jpg)
+![image.png](http://ws4.sinaimg.cn/large/4b91f9d5ly1g812m492v7j20u00iz7wh.jpg)
+
+{% image [] http://ws4.sinaimg.cn/large/4b91f9d5ly1g812m492v7j20u00iz7wh.jpg [referrerpolicy="no-referrer"] %}
 
 题图：Spectacles 官网
 
