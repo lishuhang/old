@@ -4,7 +4,7 @@ categories: 推广
 title: 首个上太空的 AI 机器人：谁把“哈尔”和“莫斯”带进现实？
 ---
 
-![image.png](https://ws1.sinaimg.cn/large/4b91f9d5ly1g812b52nhgj20k00en48s.jpg){:referrerpolicy="no-referrer"}
+![image.png]( https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/09/ibm-project-cimon.jpg)
 
 《2001：太空漫游》问世已经半个世纪，其中可爱又可怕的机器人“HAL9000”构成了人类对人工智能最初的幻想。2008 年，皮克斯动画《机器人总动员》当中，人类船长大战自动驾驶 AI“奥托”的情景也成为一代经典。而今年初大热的《流浪地球》，其中也有吴京扮演的飞行员与 AI “莫斯”的对手戏。
 
@@ -16,7 +16,7 @@ title: 首个上太空的 AI 机器人：谁把“哈尔”和“莫斯”带进
 
 Project CIMON 是被德国航空太空中心（DLR）授予的科研项目，由空中客车公司（Airbus）和 IBM 共同开发。它于 2018 年 6 月发射到了国际空间站，并在同年 11 月进行了第一次太空互动，成为太空人机交互的首例技术示范。
 
-![image.png](https://ws1.sinaimg.cn/large/4b91f9d5ly1g812bsowy9j20sl0k2dz3.jpg){:referrerpolicy="no-referrer"}
+![image.png]( https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/09/ibm-sophie-richter-mendau-1.jpg )
 
 8 月 29 日，Project CIMON 项目团队成员，IBM 商业心理学家、人工智能顾问 Sophie Richter-Mendau 在 WAIC 现场接受了媒体群访，讲述了这个项目背后的故事。
 
@@ -36,7 +36,7 @@ Project CIMON 是一个比篮球稍大一点的机器人，直径 32 厘米，�
 
 最初空客对这个机器人起名叫“太空球 （Space ball）”，不过后来从动画片《太空突击队》（Captain Future）里面找到灵感。有一位教授“活脑”叫做“Wright CIMON”。这就是 Project CIMON 名字的由来。
 
-![image.png](https://ws1.sinaimg.cn/large/4b91f9d5ly1g812cohih6j20o10et7ig.jpg){:referrerpolicy="no-referrer"}
+![image.png]( https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/09/ibm-sophie-richter-mendau-2.jpg )
 
 Project CIMON 的硬件设计是由空客完成，而 IBM 提供了人工智能技术。它使用了久负盛名的IBM Watson人工智能，来让机器模仿人类的行为。例如，用语音转文字服务听取宇航员的指令；用IBM Watson Assistant判断用户的意图和应答；用文字转语音服务输出结果；用面部识别技术判断是哪位宇航员，并结合对方表情做出人性化、情绪化的回复。
 
@@ -54,7 +54,7 @@ Project CIMON 所有的 AI 服务不是在本机运行，而是先把指令通�
 
 例如，对它说“我想念地球了”，它会用平缓的声音给予安慰；在情绪高涨的实验途中询问，它也会用比较高的音调鼓励你。此外，它也能点头和摇头，强化它表述的内容。
 
-![image.png](https://ws1.sinaimg.cn/large/4b91f9d5ly1g812d97q7tj20u00j74ln.jpg){:referrerpolicy="no-referrer"}
+![image.png]( https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/09/ibm-sophie-richter-mendau-3.jpg )
 
 Sophie 认为，AI 开发方面主要的难点在于，这是一个目标客户群体较小的项目，没有那么多的宇航员可供测试，所以需要在小数据集的前提下开发。同时在地面的实验室，也可以采集模拟数据进行分析。
 

@@ -4,7 +4,7 @@ categories: 传媒
 title: 拒绝“潜规则”这种瓜，不要再把无聊当有趣了
 ---
 
-![image.png](https://ws1.sinaimg.cn/large/4b91f9d5ly1g81286w4fyj20zk0njnpe.jpg)
+![image.png]( https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/09/female-got-hurt.jpg )
 
 *书航 8 月 30 日发于上海*
 
