@@ -4,7 +4,7 @@ categories: 传媒
 title: 网红被指刷数据，不能说一句“黑吃黑”就算了
 ---
 
- ![img](https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/10/wang-hong-vlog.jpg) 
+ ![img](/img/2019/10/wang-hong-vlog.jpg) 
 
 *书航 10 月 17 日发于北京*
 
@@ -66,17 +66,17 @@ title: 网红被指刷数据，不能说一句“黑吃黑”就算了
 
 实际上，微博方面还为这些大 V 们开发了一个专门的标签——“铁粉”。如果是一个互动正常和健康的号，在其中经常参与评论的用户，会带有这个“铁粉”标记，并且多数时候都是“铁粉”的评论被顶上来。
 
-![img](https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/10/weibo-comments-laiqu.jpg)
+![img](/img/2019/10/weibo-comments-laiqu.jpg)
 
 在 @张雨晗YuHan 的历史微博里，点进“铁粉”看到的几位经常互动的微博账户，也许会发现一些“协同作战”的不寻常行为。
 
-![img](https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/10/weibo-comments-yuhan.jpg)
+![img](/img/2019/10/weibo-comments-yuhan.jpg)
 
-![img](https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/10/suspicious-fans-1.jpg) 
+![img](/img/2019/10/suspicious-fans-1.jpg) 
 
-![img](https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/10/suspicious-fans-2.jpg)
+![img](/img/2019/10/suspicious-fans-2.jpg)
 
-![img](https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/10/suspicious-fans-3.jpg)
+![img](/img/2019/10/suspicious-fans-3.jpg)
 
 更有甚者，如果说她拥有的粉丝都是真人的话，他们如果确信这个产品有问题，甚至会因此质疑这个大 V 本人，乃至平台都会因此而利益受损。如果平台很担心这样的局面出现，从一开始他们就应该严格审查厂商资质，或者在合同当中写明意外情况的责任归属。
 

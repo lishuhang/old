@@ -4,7 +4,7 @@ layout: post
 title: 没有人能批评罗永浩，但谁都可以批评吴晓波
 ---
 
-![img]( https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/10/luoyonghao-weibo.jpg )
+![img](https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/10/luoyonghao-weibo.jpg)
 
 *书航 10 月 7 日发于北京*
 
