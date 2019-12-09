@@ -4,7 +4,7 @@ categories: 数码
 title: 微软牵手三星：再造一个“温特尔”联盟
 ---
 
-![](http://ww1.sinaimg.cn/large/4b91f9d5ly1g5t75aovoxj20u00h5jz0.jpg)
+![](/img/2019/08/wintel-cooperation-samsung.jpg)
 
 *书航 8 月 8 日发于北京*
 
@@ -50,7 +50,7 @@ Galaxy Book S 预定于今年秋季上市，售价 999 美元起，届时也将�
 
 当时你会很容易在大多数品牌电脑上，同时发现两个熟悉的贴纸：
 
-![](http://ww1.sinaimg.cn/large/4b91f9d5ly1g5t76d6o1ej20ql0g70yl.jpg)
+![](/img/2019/08/windows-intel-logo.jpg)
 
 而当时反映软件跟硬件并驾齐驱，同步升级的状态，也被总结为“安迪-比尔”定律（Andy and Bill's Law）。它的完整表述是：“Andy gives, Bill takes away”（安迪给多少，比尔拿走多少）。
 

@@ -4,7 +4,7 @@ categories: 传媒
 title: 知乎这一轮新融资，证明这三个流行的观点是错的
 ---
 
-![image.png]( https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/09/zhihu-baidu-kuaishou-mosaic.jpg)
+![image.png]( /img/2019/09/zhihu-baidu-kuaishou-mosaic.jpg)
 
 *书航 8 月 13 日发于北京*
 
@@ -66,7 +66,7 @@ title: 知乎这一轮新融资，证明这三个流行的观点是错的
 
 8 月 9 日，一组最新的微信小程序内测新入口截图曝光。截图显示，微信首次加强了小程序的主入口推荐，增设了“建议使用”、“大家在用“、”动态“等多个推荐栏目。
 
-![image.png]( https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/09/wechat-mini-programs-discover.jpg)
+![image.png]( /img/2019/09/wechat-mini-programs-discover.jpg)
 
 三大栏目基于用户时长、好友在用、信息流展示等逻辑做推荐，不少都是用户完全没有使用过的。
 
