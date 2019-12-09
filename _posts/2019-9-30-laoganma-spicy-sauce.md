@@ -4,11 +4,11 @@ title: 老干妈是真的不行了吗？
 categories: 热点
 ---
 
-![img]( https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/10/laoganma.jpg )
+![img]( /img/2019/10/laoganma.jpg )
 
 *书航 9 月 30 日发于北京*
 
-最近看到界面的数据新闻[《“老干妈”广告做的很火，但市占率已不及同行》](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650457247&idx=2&sn=2db6c76232456983514f460969e43a2a&chksm=bef2822f89850b39105598a5cd51d27559b8c4dc0dcc0da79958435d047338ec6963415c1d27&mpshare=1&scene=21&srcid=&sharer_sharetime=1569836329134&sharer_shareid=6e56c5013133a80ae448a870586d3ad7&key=0f2144d20783e8aedfcb68fd269d5c45a47778921fb4825d238dc77a4b7c62fb49339ea260d30935da0e9d0c4ac8463e8702a393cdbcca174f14fae72e67181d181e355b68474c8f45be29f0a9387522&ascene=1&uin=MTAzODky&devicetype=Windows 10&version=62070040&lang=zh_CN&pass_ticket=70unDXDLp5ITgLGqgDD8MNhb/iJ4YglQg0+tujMxfbQ=#wechat_redirect)，好奇之下去知乎搜了一圈老干妈，结果让我吓了一跳。也许是我长期没有关注它，现在满屏充斥着看衰的声音，什么“卖不动了”“跌下神坛”“老干妈已死”这种类型的。 
+最近看到界面的数据新闻[《“老干妈”广告做的很火，但市占率已不及同行》](https://mp.weixin.qq.com/s/qfZqFZMdTbWdw6Tdavt4MQ)，好奇之下去知乎搜了一圈老干妈，结果让我吓了一跳。也许是我长期没有关注它，现在满屏充斥着看衰的声音，什么“卖不动了”“跌下神坛”“老干妈已死”这种类型的。 
 
 作者们总结的主要原因包括：老干妈由年轻人接班以后扩大辣椒收购产地，选择更便宜的辣椒；员工偷窃商业机密另起炉灶；厂房起火；推出年轻态的广告，打破了不做广告宣传的惯例。 
 

@@ -4,7 +4,7 @@ title: 为什么我们被WeWork迷住了眼
 layout: post
 ---
 
-![img](https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/10/wework.jpg )
+![img](/img/2019/10/wework.jpg )
 
 *书航 10 月 16 日发于北京*
 
@@ -44,7 +44,7 @@ layout: post
 
 诺伊曼对《连线》表示，最初企业们来WeWork是为了短期租约，但现在它们开始为了这里的文化而来。
 
-![img](https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/10/wework-wired-uk.jpg )
+![img](/img/2019/10/wework-wired-uk.jpg )
 
 WeWork的模式是将大的办公室买下或租下以后分割成小单位，并佐以精装修和标准化的行政服务。这意味着其刚开始的客户来自个人或较小的企业，后续才有大公司派驻小团队进入乃至更大规模的入驻。 
 

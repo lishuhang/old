@@ -4,7 +4,7 @@ title: 你命由天不由你
 categories: 会员
 ---
 
-![img]( https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/09/luo-xiao-hei.jpg )
+![img](/img/2019/09/luo-xiao-hei.jpg)
 
 本文是[航通社增值会员通讯服务“航通社的朋友们”](https://zhuanlan.zhihu.com/p/78975585)专享内容，向公众号读者提供全文试读。
 

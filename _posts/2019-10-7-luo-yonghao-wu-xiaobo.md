@@ -4,7 +4,7 @@ layout: post
 title: 没有人能批评罗永浩，但谁都可以批评吴晓波
 ---
 
-![img](https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/10/luoyonghao-weibo.jpg)
+![img](/img/2019/10/luoyonghao-weibo.jpg)
 
 *书航 10 月 7 日发于北京*
 
@@ -19,7 +19,7 @@ title: 没有人能批评罗永浩，但谁都可以批评吴晓波
 
 问题在于，老罗是那种只要有人批评过他，他拼尽全力，总有一天得给你原样还回去的人。所以你批评他，他大概率不会服气，而是即刻还嘴，拉黑，或者想着啥时候能还嘴。
 
-![img]( https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/10/luoyonghao-weibo-1.jpg)
+![img]( /img/2019/10/luoyonghao-weibo-1.jpg)
 
 针对罗永浩做手机做的不好这件事，**基本上没有人有资格批评他**。你看： 
 
@@ -47,7 +47,7 @@ title: 没有人能批评罗永浩，但谁都可以批评吴晓波
 
 有人看了航通社那篇[《联想到底算"哪国"的？](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650660504&idx=1&sn=93200b60790d8053a62b0bca9f678458&chksm=be96979489e11e829ab7490ed74387043f86e32976de4b90e403bc8cbaf0eead4e2d81153dd8&scene=21#wechat_redirect)[》](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650660504&idx=1&sn=93200b60790d8053a62b0bca9f678458&chksm=be96979489e11e829ab7490ed74387043f86e32976de4b90e403bc8cbaf0eead4e2d81153dd8&scene=21#wechat_redirect)，问我下面那么多评论都有我本人的回复，是不是都是我自己回的。
 
-![img](https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/10/hts-lenovo-country-comments.jpg)
+![img](/img/2019/10/hts-lenovo-country-comments.jpg)
 
 ——那当然，我看到大家在我微信评论区吵的时候可开心了，平时热心读者宁可在群里、找我私聊、发朋友圈、看一看来评论，都不舍得在文章评论区留言，这样一点都不热闹嘛。 
 
@@ -71,7 +71,7 @@ Solomon过了一年以后，[在《哥伦比亚新闻评论》撰文为自己辩
 
 Solomon以“不入虎穴，焉得虎子”的精神写出了有价值的新闻内容，却导致他自己被卷入外交风波，正邪难辨。这很难不让人联想到奋战在缉毒一线的警务工作者，他们中有的也不得不选择长期卧底，但一旦纳了“投名状”自己染上毒瘾，这一生也就完了，什么功勋也都变得没有意义。![img](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
 
-![img](https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/10/you-nei-gui-nokia.jpg)
+![img](/img/2019/10/you-nei-gui-nokia.jpg)
 
 第二种情况。吴晓波、罗振宇和他们旗下的知识付费作者，还有我们航通社自己，都大致可以归结到这种情况，就是用二手资料尝试“炼金”，我们提炼出的是方法论。 
 
@@ -99,7 +99,7 @@ Solomon以“不入虎穴，焉得虎子”的精神写出了有价值的新闻�
 
 基本上，这理论必须一次提出之后，十几二十年都一直应验，最好是托夫勒那种能在26年前预言特朗普当选总统的，大家都敬你是条汉子。
 
-![img](https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/10/futurist-1980s-trump-president.jpg)
+![img](/img/2019/10/futurist-1980s-trump-president.jpg)
 
 一旦你的理论或结论有反例了，那么别管你是什么家，你这个水平还不如我呢。 
 
