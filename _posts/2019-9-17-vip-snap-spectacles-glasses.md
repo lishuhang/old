@@ -4,7 +4,7 @@ layout: post
 title: 摄像眼镜：7 年之后又 7 年
 ---
 
-![image.png](https://img.huxiucdn.com/article/content/201910/17/131012065787.jpg)
+![image.png](/img/2019/08/snap-spectacles.jpg)
 
 题图：Spectacles 官网
 
@@ -26,7 +26,7 @@ Tablet PC 是一种完整功能的笔记本电脑，其屏幕是电容式触摸�
 
 Tablet PC 在 2003 年的售价均超过万元。[有厂家想生产大约 4000-5000 元级别的触屏平板电脑](https://www.ebay.com/c/1500611668)，但无法通过 Tablet PC 认证，只能搭载普通的 XP 系统，可见当时它的入门门槛之高。
 
-![image.png]( https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/09/tablet-pc.jpg )
+![image.png](/img/2019/08/legacy-tablet-pc.jpg)
 
 图：eBay [2]
 
@@ -42,7 +42,7 @@ Tablet PC 在 2003 年的售价均超过万元。[有厂家想生产大约 4000-
 
 Glass 很快被视为“偷拍神器”，引发了全社会对隐私的担忧。[硅谷一些酒吧直接贴出了不允许 Google Glass 佩戴者进店的告示](https://www.talkandroid.com/198842-google-glass-banned-at-san-francisco-bar-etiquette-for-wearables-continues-to-develop/) ，对产品起到了很负面的影响。
 
-![image.png]( https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/09/google-glass-ban.jpg )
+![image.png](img/2019/09/google-glass-ban.jpg )
 
 图：Talk Android
 

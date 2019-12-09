@@ -4,7 +4,7 @@ layout: post
 categories: 数码
 ---
 
-![img]( https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/09/mi-mix-alpha.jpg )
+![img]( /img/2019/09/mi-mix-alpha.jpg )
 
 *书航 9 月 25 日发于北京*
 
@@ -14,7 +14,7 @@ categories: 数码
 
 MIX Alpha 的出现重新唤起了我在 2016 年第一次看到 MIX 第一代产品时候的同样感受。当时，我同样是花了一个下午时间，流连于发布会现场公布时候漫天的弹幕、比对几个外媒把这台机器放到了首页的什么位置上，评论有几百条，都是什么态度，Twitter 和微博上都是怎么说的，等等。
 
-MIX Alpha 和 MIX 的两场发布会有多么相似，不如看下[我当时写的片段](http://mp.weixin.qq.com/s?__biz=MjM5Mjg1ODIxMQ==&mid=2650658663&idx=2&sn=e223c8bb07d0f45187f37733a5dbc04d&chksm=be969e6b89e1177d5a3b46bc3220e951e6516a8143cf09880c53263723fe27ed6a5475f93f62&scene=21#wechat_redirect)：
+MIX Alpha 和 MIX 的两场发布会有多么相似，不如看下[我当时写的片段](https://mp.weixin.qq.com/s/oUZrvRA4PGYYBT6PfoAOsA)：
 
 > 全世界都表现了很大的关注，在国外吸引了好多“自来水”。当外媒指出这款手机只在中国售卖的时候，西方吃瓜群众都表示很失望。之前美国人不怎么关心不在自己国家销售的手机，正如我们并不关心印度的 Micromax 一样。所以，对小米的印象，歪果仁更多停留在苹果指责它模仿甚至抄袭上面。这次 MIX 的发布对他们是一次非常好的教育。
 >
@@ -56,7 +56,7 @@ MIX Alpha 和 MIX 的两场发布会有多么相似，不如看下[我当时写�
 
 但它其实很难连续成功两次。人们最大的一个疑虑就是，此前几乎所有厂商想要做副屏，并实际上割裂开来，需要用户手动反转手机查看这个动作的，都从没成功过。
 
-![img]( https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/09/mi-mix-alpha-back.jpg )
+![img]( /img/2019/09/mi-mix-alpha-back.jpg )
 
 根源在于，用户是“懒到家”的，他们不会频繁的像摊煎饼一样来回给自己的手机翻面，宁可在同一个平面完成所有操作。
 
