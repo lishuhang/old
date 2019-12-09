@@ -4,7 +4,7 @@ categories: 数码
 title: 外卖要收配送费，为啥还比堂食贵
 ---
 
-![](http://ww1.sinaimg.cn/large/4b91f9d5ly1g5t7b8d2puj20u00h5n6r.jpg)
+![](/img/2019/07/takeaway-order.jpg)
 
 *书航 7 月 25 日发于北京*
 

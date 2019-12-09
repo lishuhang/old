@@ -4,7 +4,7 @@ categories: 热点
 title: ofo 小黄车：扶我起来，我还有救
 ---
 
-![image.png]( https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/09/ofo-in-hong-kong.jpg)
+![image.png]( /img/2019/09/ofo-in-hong-kong.jpg)
 
 *书航 8 月 12 日发于北京*
 
@@ -38,7 +38,7 @@ ofo 的内地版 App 甚至可以在香港开车——我今年 2 月就在沙�
 
 今后要想凭借颜色找到 ofo 可能更难了。在北京之外的其他城市，陆续有人拍到了去掉“摩拜”字样的美团单车，颜色从橙色改成了黄色，远远望去，跟 ofo 雌雄难辨。
 
-![image.png]( https://raw.githubusercontent.com/lishuhang/htsimg/master/2019/09/meituan-yellow-bike.jpg)
+![image.png]( /img/2019/09/meituan-yellow-bike.jpg)
 
 这是一种“高级版”的美团（摩拜）单车，跟不久前投放的那种轻便好骑的橙色车属于同款。只是，它不能通过微信小程序、高德地图等第三方入口打开，会提示必须用美团 APP 扫码才能开锁。它将陆续代替此前投放的旧款车。
 

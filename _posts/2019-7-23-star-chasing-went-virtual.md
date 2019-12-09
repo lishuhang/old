@@ -6,7 +6,7 @@ title: 现在追个星只要动动手指就行了，放在以前可是要出人�
 
 
 
-![](http://ww1.sinaimg.cn/large/4b91f9d5gy1g59tiip8vaj212w0m8tah.jpg)
+![](/img/2019/07/jay-ikun-weibo-star.jpg)
 
 *书航 7 月 23 日发于北京*
 

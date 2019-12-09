@@ -5,7 +5,7 @@ title: 女性劳动更容易被 AI 替代？才不是！
 ---
 
 
-![](http://ww1.sinaimg.cn/large/4b91f9d5gy1g5bqjwf3qgj20k00bf0tz.jpg)
+![](/img/2019/07/left-right-brains.jpg)
 
 *书航 7 月 24 日发于北京*
 

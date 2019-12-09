@@ -5,7 +5,7 @@ title: 美颜滤镜：造福中国女性的伟大发明
 ---
 
 
-![](http://ww1.sinaimg.cn/large/4b91f9d5ly1g5t78zw1ezj20u00e343p.jpg)
+![](/img/2019/08/qiaobiluo-snap.jpg)
 
 全文约 3900 字
 
