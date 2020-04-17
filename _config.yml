@@ -27,7 +27,7 @@ url: "https://lishuhang.me/"
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
-permalink: /:year/:month/:day/:title:output_ext
+# permalink: /:year/:month/:day/:title:output_ext
 
 gems: [jekyll-paginate,pager,pagination]   #添加插件
 paginate: 10   #开启分页
