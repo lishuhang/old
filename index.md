@@ -1,21 +1,67 @@
-﻿---
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
----
+# 欢迎访问航通社网站
 
-<!--
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+![航通社 logo](/assets/img/logo-horizontal-blue.svg)
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+*航通社——你应该知道的历史、现在和未来*
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+## 简介
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">全文</a>
-    </article>
-  {% endfor %}
-</div>
--->
+**航通社** 创始于 2015 年，提供全原创科技新闻和观点。
+
+创始人书航曾在网易科技、创见、动点科技 / TechCrunch 中国等平台历任记者、编辑等职，也有在初创公司做产品的经历。
+
+航通社努力为您呈现文字有力、观点鲜明、打动人心的文章，不追求与营销号抢夺时效性，而是力求挖掘每个热点背后的真正价值。
+
+以“你应该知道的历史、现在和未来”为口号，航通社关注领域涵盖热点、产品、传媒、历史、未来五大领域，主要包含科技业界突发新闻、大公司动态、数码及家电评测、新媒体业态观察、互联网历史大事件复盘、以及 AI、AR/VR 等前沿技术。
+
+- **热点** | 最近什么在流行
+
+- **传媒** | 新闻传播学观察
+
+- **数码** | 身边的科技创新
+
+- **历史** | 回顾科技演化史
+
+- **未来** | 展望前沿新技术
+
+航通社已入驻微博、微信、知乎、悟空问答、百家号、头条号、大鱼号、企鹅号、网易号、搜狐号、一点号、北京时间、新浪看点、简书、Flipboard 等几乎所有媒体平台。（排名不分先后）
+
+航通社不仅通过自有渠道分发，更通过一些主流科技媒体的同步传播，覆盖主流人群。
+
+航通社真诚期待与我们的每一位读者携手前行，让我们的洞察交相共鸣，在科技业界产生更大的回响。
+
+## 联系社长
+
+- 航通社官网域名：https://**lishuhang.me**
+
+  *如微信提示警告信息，请点击页面底部链接 “**访问原网页**”*
+
+- 航通社微信公众号：**lifeissohappy**
+
+  或在微信搜一搜：**航通社**
+
+  欢迎体验公众号菜单区
+
+  - **🔥 精选** | 精品热文
+
+  - **🕙 往期** | 历史文章
+
+  - **📞 联系** | 转载事宜
+
+- 航通社助理微信号：**hangtongshe**
+
+  - 加读者群请附言：航通社读者进群
+
+  - 商务合作请附言：航通社合作 + 单位名
+
+  - 转载事宜请附言：航通社文章转载
+
+- 邮箱联系 / Overseas contact：**coop@lishuhang.me**
+
+- 微博：**@航通社**
+
+## 鸣谢
+
+本站使用 [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable) 搭建。[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/jhildenbiddle/docsify-themeable/blob/master/LICENSE)
+
+*最近更新：2020.4.17*
