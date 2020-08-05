@@ -1,8 +1,5 @@
----
-layout: post
-title: 找朋友
-categories: 七日谈
----
+# 七日谈：找朋友
+
 ![](https://ws1.sinaimg.cn/large/4b91f9d5gy1fvlzhej645j20zk0nqkjl.jpg)
 
 豆瓣、Facebook、校内、海内等等网站全都有了寻找好友的功能。这是一项可以让人心甘情愿的交出电子邮箱密码的功能。
