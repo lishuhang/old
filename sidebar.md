@@ -11,6 +11,7 @@
 - [2007 年文章](/2007/index)
 - [2006 年文章](/2006/index)
 ---
+- [🐱 书航的博客 - 56K 小猫](/blog/index)
 - [航通社的朋友们 <sup>VIP</sup>](vip)
 - [<i class="fab fa-weixin"></i> 微信搜一搜：航通社](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&__biz=MjM5Mjg1ODIxMQ==&mid=503174856&idx=1&sn=f97dadc8b1ca7cd2344fa2f3e331e8e2)
 - [<i class="fab fa-weibo"></i> 微博：@航通社](https://weibo.com/lifeissohappy)
