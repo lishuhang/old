@@ -9,5 +9,5 @@
 航通社已入驻几乎所有媒体平台，更通过一些主流科技媒体的同步传播，覆盖主流人群。
 
 [航通社简介](about.md)
-[微信](https://mp.weixin.qq.com/s/tFzBdbA0VtXkyaPIDcHwGg)
+[56K 小猫](blog.md)
 [最新文章](archives.md)

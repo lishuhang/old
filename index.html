@@ -123,7 +123,26 @@ h3, h3 span {
           hook.afterEach(function(html) {
             return html + footer;
           });
-        }
+        },
+         function (hook, vm) {
+          // load livere
+          hook.beforeEach(function(content) {
+              var comment = "<div id='lv-container' data-id='city' data-uid='MTAyMC81NzM3OC8zMzg0Mg=='></div>\n\n----\n"
+              return content + comment;
+          });
+
+          hook.doneEach(function() {
+             (function(d, s) {
+                 var j, e = d.getElementsByTagName(s)[0];
+                 if (typeof LivereTower === 'function') { return; }
+                 j = d.createElement(s);
+                 j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+                 j.async = true;
+                 e.parentNode.insertBefore(j, e);
+             })(document, 'script');
+          });
+        },
+        
       ],
     }
   </script>
