@@ -113,24 +113,23 @@ h3, h3 span {
         }
       },
       plugins: [
+      //custom footer
         function(hook) {
           var footer = [
             '<footer style="text-align: center;margin-top: 50px;">',
             '<span> 航通社  &copy; 2022 </span>',
             '</footer>'
           ].join('');
-
           hook.afterEach(function(html) {
             return html + footer;
           });
         },
-         function (hook, vm) {
           // load livere
+         function (hook, vm) {
           hook.beforeEach(function(content) {
               var comment = "<div id='lv-container' data-id='city' data-uid='MTAyMC81NzM3OC8zMzg0Mg=='></div>\n\n----\n"
               return content + comment;
           });
-
           hook.doneEach(function() {
              (function(d, s) {
                  var j, e = d.getElementsByTagName(s)[0];
@@ -142,7 +141,7 @@ h3, h3 span {
              })(document, 'script');
           });
         },
-        
+// end of plugins
       ],
     }
   </script>
