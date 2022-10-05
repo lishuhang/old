@@ -6,4 +6,6 @@
 
 - [56K 小猫](blog.md)
 
+- [可可爸日记](kekeba.md)
+
 - [简介](about.md)
