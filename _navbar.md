@@ -8,4 +8,6 @@
 
 - [可可爸日记](kekeba.md)
 
+- [书摘](digest.md)
+
 - [简介](about.md)
