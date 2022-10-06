@@ -10,4 +10,6 @@
 
 - [书摘](digest.md)
 
+- [VIP](vip.md)
+
 - [简介](about.md)
